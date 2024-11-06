@@ -1,0 +1,15 @@
+google-api-python-client
+transformers
+matplotlib
+wordcloud
+seaborn
+nltk
+isodate
+tqdm
+gensim
+scikit-learn
+networkx
+python-dotenv
+pandas
+numpy
+

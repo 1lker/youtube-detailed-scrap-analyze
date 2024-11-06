@@ -1,0 +1,3342 @@
+{
+    "comments": [
+        {
+            "comment_text": "Down flags state, up confirms if state remains true",
+            "author": "@hguarneri",
+            "like_count": 0,
+            "published_at": "2024-11-06T10:15:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "You can't mention the word \"game\" to most interviewers.",
+            "author": "@jesusmgw",
+            "like_count": 0,
+            "published_at": "2024-11-06T00:17:09Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "prime got more views in his reaction video than the amount of views the original video got 💀",
+            "author": "@PugzNotDrugzEditz",
+            "like_count": 0,
+            "published_at": "2024-11-04T12:37:41Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I heard from people and later found same info on the web that in JS numbers are stord as floats, even if they fit SMI category. was very surprised. if thats true then (its just my guess) SMI tag arrays are just a thing that lets it know it can store values of such array in SMI sized variables (in v8 internals ffor example), so that does not make memory size for the array more compact, but typed arrays should be able to",
+            "author": "@nescafezos4265",
+            "like_count": 0,
+            "published_at": "2024-11-03T07:49:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Did this dude just call field of view as “fog of war”",
+            "author": "@coomlord5360",
+            "like_count": 1,
+            "published_at": "2024-11-01T22:33:24Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Subscribed for this video alone thanks for shoutout to gamedevs",
+            "author": "@zayniacgames",
+            "like_count": 0,
+            "published_at": "2024-10-31T00:10:04Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Using sine, cosine and tangent for design was super cool the first time I saw it too :P been using fun math like that for about a year for UI element design/fx :)",
+            "author": "@Tsukasaelk10",
+            "like_count": 0,
+            "published_at": "2024-10-30T23:12:23Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "I do that too, where i release outside of a window when I realise I didn t want to do it",
+            "author": "@mihaiciocan2169",
+            "like_count": 0,
+            "published_at": "2024-10-30T17:24:32Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This guy is so good not only on the tech side, but also on video communication/editing, making concepts approachable. What a guy!",
+            "author": "@Dolanor",
+            "like_count": 0,
+            "published_at": "2024-10-30T15:04:46Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "1:20 - Prime, im sorry but aren't you tired of just literally hating web frontend devs? \nFirst of all, what are these absurd expectation of a junior dev? \nEven with a React todo app there would be plenty of stuff to talk about:\n- i made the app feel more responsive by caching data locally\n- i've implemented partial restoration algo for cases where local data shape doesnt match the data from server due to a new update\n- i've implemented realt-time sync between tabs\n- oh i made a bunch of nice animations - when you drag a bottom drawer, the main app container in the background moves cause it looks nice and feels native\n- oh ive implemented some keyboard navigations for advanced users\n- when deleting a todo, instead of moving focus to the body, i move it to the next todo\n\nthere's a lot of stuff you can think about when making UIs - even if its a simple todo app\neven if you think all the stuff i've listed sounds easy: \n1) if we're talking about displaying passions - it does show passions of somebody who thinks of how the UI they're making is gonna be used. Recently at my job I've updated the pagination components so that pressing number key while pagination buttons are in focus, it will move focus to the pagination input and immediately put in the number you've pressed. was it hard to do? no, it was like 15 lines of code at best. yet I wasn't the first person to work on this component who thought it something that should have been done.\n2) if all of that is easy (a clerk integration as you say) - then what's the conclusion? web dev is easy? so what should you do if you wanna be a frontend web dev? make a video game? great advice.\n\nas for Prime's understanding of frontend - I know you did React at Netflix and you even made some optimizations to react internals. Yet when Ryan Florence gave a you a challenge to implement his Remix newsletter with HTMx - what you've presented to him was a a form with 1 input which woulf after submission either display 1 error or redirect you to to a success page. And then Ryan listed a bunch of things you didnt implement. If that's supposed to be impressive, I'm not surprised you think of webdev this way.",
+            "author": "@huge_letters",
+            "like_count": 1,
+            "published_at": "2024-10-30T14:18:02Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Ya'll can build a todo app? 😢",
+            "author": "@defcodeOne",
+            "like_count": 0,
+            "published_at": "2024-10-30T13:24:37Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Well, Even in year 2014 I also made a game in \"Java Ludo Game - Mohammad Arif Mustafa\" posted in youtube using Swing to get a Job easily and yes that helped me out.... older tricks, but it helps you a lot to learn and get board to a job.😁",
+            "author": "@AjinoMyers",
+            "like_count": 0,
+            "published_at": "2024-10-29T06:53:38Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "As someone who’s studying to be a junior developer I’m so screwed",
+            "author": "@gregorio5543",
+            "like_count": 0,
+            "published_at": "2024-10-28T22:51:42Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "@17:50 about on press vs on release --  I think both are correct in different scenarios. I agree exactly that when you're mouse clicking in a UI on a button, you should be able to drag off before releasing to cancel. But if you're using a key press to do an attack in a game, then it 100% should be \"on press\" not \"on release\" (I'm aware some games actually make this a user option for quick-casting where \"while you hold it\" it shows you an aiming indicator, and that's fine too, as long as it's optional especially) -- but in general, like jumping or sliding in a game should be something that happens on press, as it makes the game feel snappier to the user's input.",
+            "author": "@Night_Hawk_475",
+            "like_count": 0,
+            "published_at": "2024-10-28T17:53:02Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "He has strong polish accent.",
+            "author": "@ViktorYakunin",
+            "like_count": 0,
+            "published_at": "2024-10-28T14:23:11Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"we do this not because it is easy, but because we thought it would be easy\"",
+            "author": "@randomvids5961",
+            "like_count": 0,
+            "published_at": "2024-10-28T06:07:33Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Awesome video!",
+            "author": "@williambreeze2659",
+            "like_count": 0,
+            "published_at": "2024-10-28T03:34:41Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "No wonder I don’t have a job. I have 4 years experience in front end web application development  but this is on another level.",
+            "author": "@mrchedda",
+            "like_count": 1,
+            "published_at": "2024-10-27T21:15:50Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nobody hires jr. devs, so I developed thermonuclear weapons and rebooted the world.",
+            "author": "@recklessgambit3385",
+            "like_count": 0,
+            "published_at": "2024-10-27T16:11:08Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "0:49 This is actually a reference to a speech by John F. Kennedy about the mission to go to the Moon. The actual quote is \"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard\".",
+            "author": "@kecskemetib",
+            "like_count": 2,
+            "published_at": "2024-10-27T15:28:48Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I got cringed from the comments that i closed the video",
+            "author": "@halimnabil4575",
+            "like_count": 0,
+            "published_at": "2024-10-27T15:11:49Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "Someone knows what he uses for video animations? Are amazing!",
+            "author": "@jarr0_0",
+            "like_count": 1,
+            "published_at": "2024-10-27T02:06:41Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Nobody hires a war criminal so I commited war crimes",
+            "author": "@jongxina3595",
+            "like_count": 2,
+            "published_at": "2024-10-26T23:11:12Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Carmack's opinion on UI is irrelevant. In fact all UI designers opinions on UI is irrelevant; the only thing that matters is the consumer experience, and what he's advocating for is a worse consumer experience, end.",
+            "author": "@Yakend",
+            "like_count": 0,
+            "published_at": "2024-10-26T11:26:53Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "He is a Smurf",
+            "author": "@fahmiirfan6923",
+            "like_count": 0,
+            "published_at": "2024-10-26T08:43:09Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "John Carmack is so wrong about on down it's not even funny.",
+            "author": "@fennecbesixdouze1794",
+            "like_count": 0,
+            "published_at": "2024-10-26T02:51:13Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "how long did it take 😭 ?",
+            "author": "@ntdash2153",
+            "like_count": 0,
+            "published_at": "2024-10-25T19:31:46Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "so this is a jr dev huh? yeah maybe I should look for a career in something else",
+            "author": "@misanthrophex",
+            "like_count": 0,
+            "published_at": "2024-10-25T15:27:11Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Why does he sound like Microsoft Wattson",
+            "author": "@Abrifq",
+            "like_count": 0,
+            "published_at": "2024-10-25T10:54:38Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "why his voice sounds like AI???",
+            "author": "@icaroamorim3123",
+            "like_count": 0,
+            "published_at": "2024-10-25T10:09:42Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "#nobuild FTW! Now we're two...",
+            "author": "@kristianask",
+            "like_count": 0,
+            "published_at": "2024-10-25T07:37:06Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "This is surely a junior dev bro 😭. And if he is, he definitely has been coding for a pretty long time, with the way he is able to just write stuff. I started coding last year around June, and man i am struggling. I literally scour through your repos and whatever i find on github to learn to how to write like this eventually or build stuff with ass code lmao, and this guy being able to do stuff like this as a junior is really fascinating. Also, really motivating too and gives me hope that i'll be a great engineer too someday 😭 if i keep trying and learning.",
+            "author": "@megadeth_9611",
+            "like_count": 0,
+            "published_at": "2024-10-24T21:06:41Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Chat: Why is a game a good idea?\nPrime: Because it's hard and a lot of work\nChat: You make it sound easy",
+            "author": "@zac9933",
+            "like_count": 2,
+            "published_at": "2024-10-24T21:01:58Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "only old people like me will get the last screen",
+            "author": "@ViniCavin",
+            "like_count": 0,
+            "published_at": "2024-10-24T19:59:17Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "could have saved himself some time / effort by doing an immediate mode gui vs retained. Extraordinarily simple to set up as long as you can draw rectangles and text",
+            "author": "@Awesomer5696",
+            "like_count": 0,
+            "published_at": "2024-10-24T18:23:52Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "my most valuable quality is that i have extremely good proficiency in a small subset of rust and i can efficiently chat geepity anything else from assembly to python to javascript",
+            "author": "@vaqxai4281",
+            "like_count": 0,
+            "published_at": "2024-10-24T12:59:14Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "That guy is no longer a jr dev.",
+            "author": "@SanNico",
+            "like_count": 0,
+            "published_at": "2024-10-24T05:09:46Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "1:58 dude, one company straight up lied to my recruiter that I came in unprepared for the interview just because I was talking passionately about event driven software architecture. I answered all of their questions, I completed the test assignment after they hastily fixed the dev env they forgot to make sure it works. I even got small MR for their public project approved before I came in for the interview. Spot goddagnit on that an interviewer should be competent. I hate dealing with this crap, and a good 40% of all my interviews a like that. What the actual hell",
+            "author": "@Nekroido",
+            "like_count": 0,
+            "published_at": "2024-10-23T19:20:01Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Release vs. Press\nPress feels more responsive because the action is immediate.\nRelease is preferential to the need for, as you pointed out, recovery from a mis-click.\n\nIf I'm playing an FPS, I would definitely want on Press/Keydown.\nIf I'm navigating a website I definitely want it to be on Release, because the website may dynamically change beneath my click.\n\n~33m If you ever want to see complicated by intuition over reality. Try tutoring an intelligent teenager in maths.\nThey'll be doing it right, getting it easily, and it will feel too easy, so they'll think either they're wrong, or they're not done.",
+            "author": "@LokiCDK",
+            "like_count": 0,
+            "published_at": "2024-10-23T14:50:18Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "HOW is this dude a fuck'n Junior dev?\n\nBro, what am I?",
+            "author": "@TheD3adlysin",
+            "like_count": 0,
+            "published_at": "2024-10-23T11:09:26Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "this is what happens when an idea looks really good on paper (Auto-filter spam messages) but is literally impossible to execute without hiccups (false positives) and they probably created it to use some AI thing that they're paying for. not to mention the obvious \"protect people from hate speech\" that probably also happens with it. again, good idea on paper, impossible to execute.",
+            "author": "@purr_lude",
+            "like_count": 0,
+            "published_at": "2024-10-22T22:50:50Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "How da F* is this a jr dev?... this dude is ridiculously talented!",
+            "author": "@aleolivera2310",
+            "like_count": 0,
+            "published_at": "2024-10-22T20:10:04Z",
+            "sentiment": "LABEL_2",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "I taught myself programming by building a photo hosting website for a buddy. When I started applying for jobs, I could show them a working website that actually did a thing, that people used. I had _so much_ I could talk about. Demonstrated skills > everything else.",
+            "author": "@zdkama",
+            "like_count": 0,
+            "published_at": "2024-10-22T18:52:57Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "for the interact on down vs release, i think you might want to have ondown for most buttons, and onrelease for buttons that are harder to undo/get out of, like start game, quit app/game, delete, etc",
+            "author": "@Meteotrix",
+            "like_count": 0,
+            "published_at": "2024-10-22T18:06:44Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "this is not a junior dev, gotta stop with these fucking bait titles",
+            "author": "@TheReequiem",
+            "like_count": 1,
+            "published_at": "2024-10-22T13:24:30Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "When I was focusing on making personal projects I liked for my portfolio, a friend of mine suggested to focus on passing \"dumb\" interview questions from Leetcode… who's right?",
+            "author": "@SlavaThereshin",
+            "like_count": 0,
+            "published_at": "2024-10-22T12:49:50Z",
+            "sentiment": "LABEL_1",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "That guy is not making a game for the first time, and thats pretty clear!!!! Internet is full of imposters!",
+            "author": "@Allthingslearningg",
+            "like_count": 2,
+            "published_at": "2024-10-22T04:36:52Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "what's up with the robot voice? is this person using a voice changer?",
+            "author": "@removechan10298",
+            "like_count": 0,
+            "published_at": "2024-10-22T04:25:39Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "검색 창이 왜 이렇게 작아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "author": "@다루루",
+            "like_count": 0,
+            "published_at": "2024-10-22T03:47:02Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "game dev: \"dude, look that algorithm I made for this unique mechanic\"\nweb dev: \"dude look that CRUD\"",
+            "author": "@bonekazz-8441",
+            "like_count": 0,
+            "published_at": "2024-10-21T22:52:45Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "If he's a junior ... WHAT AM I??",
+            "author": "@ashersamuel958",
+            "like_count": 0,
+            "published_at": "2024-10-21T20:41:12Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "The difference between a jr and snr dev is knowing that Apple was going to fuck him in the end.",
+            "author": "@I2obiNtube",
+            "like_count": 0,
+            "published_at": "2024-10-21T18:52:12Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "So, if I was that talented to built a game like this with JS, I would already built an game engine, sell it and be a billionaire already.",
+            "author": "@cutedumbpanda8066",
+            "like_count": 0,
+            "published_at": "2024-10-21T16:47:37Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "What is he using to make the animated graphs for the math stuff?",
+            "author": "@waldchiller4695",
+            "like_count": 0,
+            "published_at": "2024-10-21T13:54:39Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "if this guy can't get a job, I better start making \"i suck d*** for dollars\" poster and camp around a crowded mall, because aint no way in hell i'm getting hired.\n\non a side note... junior dev my ass",
+            "author": "@kesoBJJ",
+            "like_count": 0,
+            "published_at": "2024-10-21T07:57:14Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "While this was certainly useful as far as showing an overview of the motivation of making the game and some critical techniques behind implementing core systems of the game itself, it doesn't get to what _programmers_ would consider the \"hard\" part and why so many \"one-man team\" games often don't get past proof-of-concept or to a point of enjoyability - designing the actual gameplay experience (final/non-placeholder graphics and other assets, levels, etc).\n\nAround 2011 or 2012 I made a tech demo for a vertical scrolling shoot-em-up (aka \"vertical shmup;\" think games like Raiden, Ikaruga, 19XX, or the Touhou series) using JavaScript and the Sphere Engine. I was so focused on getting the underlying systems to work that I paid no attention to making an experience that would be _fun_ or _enjoyable._ I didn't prototype any proper enemy layouts, weapon loadouts, bullet sprays to navigate (for those who like those sorts of bullet-hell games), things like that. Over time, I learned that things like that should still be present in spec and focus even if the immediate task is not necessarily directly relevant. While I consider myself artistically inclined, I simply didn't put in the effort needed to make more than one player ship, one test enemy ship, a smattering of particle graphics, and some placeholder backgrounds and text graphics.\n\nMark Brown at Game Maker's Toolkit has an ongoing series of videos describing the making of his indie game \"Mind Over Magnet\" where he goes over not just the process of making and troubleshooting the systems, but also making and troubleshooting the levels, assets, and even the processes themselves. Even if one might not agree 100% with his specific philosophy or praxis (he _is_ using a Unity-based workflow, after all), he has shown himself to be a guy who puts his money where his mouth is in his dev efforts after building his channel making videos for years analyzing what makes games tick.",
+            "author": "@apollolux",
+            "like_count": 0,
+            "published_at": "2024-10-21T00:04:44Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Yea I see this guy is seriously skilled and passionate. He really knows what he's doing. I think atleast starbucks MIGHT hire him because he'll be able to get the POS system working again so they don't have to call out an engineer.",
+            "author": "@MonsterJuiced",
+            "like_count": 0,
+            "published_at": "2024-10-20T22:28:42Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "that's how you turn 15 minutes video to a 40 minutes.",
+            "author": "@IAnasHameed",
+            "like_count": 0,
+            "published_at": "2024-10-20T17:30:50Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "34:21 was worth the price of admission",
+            "author": "@dbhansen",
+            "like_count": 0,
+            "published_at": "2024-10-20T16:25:52Z",
+            "sentiment": "LABEL_1",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "The act onPress vs onRelase depends a little on what the button is doing and how consequential the triggered action is. Buttons for making a counter go up or down? Easily onPress, there is no debate. A confirm button for sending money or a \"Finish Turn\" button in a turn-based video game? I think I will go the safe route with onRelease.",
+            "author": "@Kotfluegel",
+            "like_count": 0,
+            "published_at": "2024-10-20T13:32:10Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I make Todo apps and e-commerce and i hate them...i want to do erp and games",
+            "author": "@kinuthiasteve4505",
+            "like_count": 0,
+            "published_at": "2024-10-20T10:01:21Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "There is a real world use case for on release, not game related, however the ability to dismiss an interaction can be important, so I'm sorry die hard \"on press\" coders, the ability to dismiss an interaction on release is important (not game related)",
+            "author": "@TheMeditatedCoin",
+            "like_count": 0,
+            "published_at": "2024-10-20T08:51:50Z",
+            "sentiment": "LABEL_1",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "If you store and update game state totally separately from render state you can do another neat thing (beyond the 'scrubbing'). You can run an entire replay of the game deterministically, which is the beginnings of implementing lockstep multiplayer and effectively testing it for desyncs. If you use deterministic physics or some kind of horrible hack to make floats cross-platform deterministic it all magically works.",
+            "author": "@boggo3848",
+            "like_count": 0,
+            "published_at": "2024-10-20T08:14:29Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "yes that is cool but can he do a todo app?",
+            "author": "@soulinvestormusic9908",
+            "like_count": 0,
+            "published_at": "2024-10-20T00:59:35Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "well videos like this makes me thankful for having found a job as self taught (i dont live in the Us) and without any degree. I was very lucky with people trusting me.",
+            "author": "@ghevisartor6005",
+            "like_count": 0,
+            "published_at": "2024-10-19T19:53:55Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "My bachelor degree was about difference between AoS and SoA in games with JavaScript. And I did not see any significant differences for a particle system where every array only stored numbers. Same for TypedArrays, no significant difference.",
+            "author": "@NintendoJimmy",
+            "like_count": 0,
+            "published_at": "2024-10-19T12:19:48Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "It makes me sad that I have no one I can share this video with who would appreciate it",
+            "author": "@TheAbeKane",
+            "like_count": 0,
+            "published_at": "2024-10-19T08:14:29Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "I'm still salty that Civilization went from a square grid to a hex grid in Civ V, because we went from 8 points of entry to a tile down to only 6. \n\nI will admit, it did make flanking more dynamic and impactful, but I miss orderly North-South battle lines.",
+            "author": "@jarsbudreaux",
+            "like_count": 0,
+            "published_at": "2024-10-18T23:55:37Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "what's your content either than reacting to otherss'?",
+            "author": "@hamza_llldd",
+            "like_count": 0,
+            "published_at": "2024-10-18T22:53:56Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The real key is to do this level of care, but for your own actual \"project\" that is designed to make money. When one finally works, you are now employeed by yourself congratulations 👏🎉",
+            "author": "@ks_snuggles",
+            "like_count": 0,
+            "published_at": "2024-10-18T21:31:31Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i was one of the first 10 viewers of the original video. i think YouTube is trying to tell me something...",
+            "author": "@WannesVantorre",
+            "like_count": 1,
+            "published_at": "2024-10-18T18:22:29Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I'm crazy or this is reposted?",
+            "author": "@kelvinpina3392",
+            "like_count": 0,
+            "published_at": "2024-10-18T18:09:25Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "no young person presides a state united country so here's a family",
+            "author": "@iamtimsson",
+            "like_count": 0,
+            "published_at": "2024-10-18T17:21:58Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "A little dts: down to sex 😂",
+            "author": "@kydlnw2023",
+            "like_count": 0,
+            "published_at": "2024-10-18T15:40:32Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "he's not a junior, don't get discouraged by a liar",
+            "author": "@bondi_69",
+            "like_count": 0,
+            "published_at": "2024-10-18T14:14:54Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This might just be me, but i would hav e implemented the UI by overlaying HTML... (Of course his way you learn more)",
+            "author": "@MaikKellerhals",
+            "like_count": 0,
+            "published_at": "2024-10-18T13:12:38Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "well, there goes all the motivation I had left to keep pushing",
+            "author": "@grmn3564",
+            "like_count": 1,
+            "published_at": "2024-10-18T13:07:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I did a 2D isometric game before I became a proffesional dev too!\nThis brought back some memories haha!",
+            "author": "@i-use-vim-btw",
+            "like_count": 0,
+            "published_at": "2024-10-18T13:01:22Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "{\n □,□,□,□,□,□,\n □,□,□,□,□,□,\n □,□,□,□,□,□,\n □,□,□,□,□,□\n}->{\n ¤,¤,¤,¤,¤,¤,\n _¤,¤,¤,¤,¤,¤,\n¤,¤,¤,¤,¤,¤,\n _¤,¤,¤,¤,¤,¤\n}",
+            "author": "@TheYahmez",
+            "like_count": 0,
+            "published_at": "2024-10-18T11:58:25Z",
+            "sentiment": "LABEL_1",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Dont code, administrate, i have seen jobs where admins just collect paychecks, its great!",
+            "author": "@JonathanVezinat",
+            "like_count": 0,
+            "published_at": "2024-10-18T11:20:54Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Activate on down vs. release. I think activating when releasing while over the same element that was also pressed down on may be the best balance of allowing canceling the click, but not accidentally being clicked when dragging the grid.",
+            "author": "@JayMartMedia",
+            "like_count": 0,
+            "published_at": "2024-10-18T03:24:20Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The amount of projects I’ve made is ridiculous. Got honor roll twice in computer science in college. Still can’t get t a job..",
+            "author": "@Brawlstriker89",
+            "like_count": 0,
+            "published_at": "2024-10-18T00:19:09Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Very good video, instant fan of both of you!",
+            "author": "@leoingson",
+            "like_count": 0,
+            "published_at": "2024-10-17T23:12:55Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "He cannot be a junior developer because the problem he describes requires either good gaming experience during study or practical experience with a software firm.",
+            "author": "@coding1489",
+            "like_count": 1,
+            "published_at": "2024-10-17T23:07:54Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Let's see Claude try build this",
+            "author": "@josephbolton8092",
+            "like_count": 0,
+            "published_at": "2024-10-17T19:19:56Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "17:02 Also a hot question in the land mine industry",
+            "author": "@mackster85",
+            "like_count": 0,
+            "published_at": "2024-10-17T16:01:03Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"No ones crowning young Nobility, so i made an empire.\" ~ Napoleon",
+            "author": "@ziggytheassassin5835",
+            "like_count": 4,
+            "published_at": "2024-10-17T15:17:07Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "No one hires Jr Devs so I made a Sr dev project?",
+            "author": "@codeintherough",
+            "like_count": 0,
+            "published_at": "2024-10-17T14:19:05Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This guy needs to keep working until he comes up with StarCraft 3",
+            "author": "@ClarksonFisherIII",
+            "like_count": 0,
+            "published_at": "2024-10-17T13:10:41Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "36:37: The true council of a peer code review LUL",
+            "author": "@spectrecular9721",
+            "like_count": 0,
+            "published_at": "2024-10-17T11:00:18Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "No job for HTMX, so i made eCommerce with HTMX",
+            "author": "@lutfiikbalmajid3128",
+            "like_count": 0,
+            "published_at": "2024-10-17T09:57:45Z",
+            "sentiment": "LABEL_1",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "20 years ago: fizzbuzz \n2024: No One Hires Jr Devs So I Made A Game",
+            "author": "@sunggwanchoi5729",
+            "like_count": 9,
+            "published_at": "2024-10-17T06:24:56Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I don't think the \"small integer optimization\" here is very relevant, seeing as most of the WebGL APIs require ArrayBuffers anyway, which are the correct way to store an array of any numeric type if you need performance.",
+            "author": "@Maxjoker98",
+            "like_count": 0,
+            "published_at": "2024-10-17T03:18:42Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "What about the video itself? Very well made, nice animations, pace and script!",
+            "author": "@richard-costa",
+            "like_count": 0,
+            "published_at": "2024-10-17T03:02:24Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "I am literally interviewing candidates right now. Just reached out to him on X! Thanks for highlighting this talent!",
+            "author": "@OurCyberLife",
+            "like_count": 0,
+            "published_at": "2024-10-17T02:32:46Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "We need episode one of The Startup",
+            "author": "@SamFishback",
+            "like_count": 0,
+            "published_at": "2024-10-17T00:06:43Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "jsdoc is life. I built a tool to make jsdoc work even better because of how annoying ts is.",
+            "author": "@AndrewVelez",
+            "like_count": 0,
+            "published_at": "2024-10-16T23:48:55Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "ho is done in go nice i  like to take a look at that game now",
+            "author": "@agustingomez7172",
+            "like_count": 0,
+            "published_at": "2024-10-16T22:55:23Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "wait, made 3d models for the sprites? could've just used ai 🤦🏽",
+            "author": "@themax2go",
+            "like_count": 0,
+            "published_at": "2024-10-16T22:33:15Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "you don't store \"hexagonal data\"... it's just data (stored in a 2d/3d/... array) - unless i'm missing something here?",
+            "author": "@themax2go",
+            "like_count": 0,
+            "published_at": "2024-10-16T22:31:46Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I really liked your point about doing the game logic separately to the presentation/animation, structuring the code that way (for a game like this anyway with commands and visual state updates to perform) would in theory make it easier to move that on to the server (or not.) Really liked that 👍",
+            "author": "@pixelfingers",
+            "like_count": 0,
+            "published_at": "2024-10-16T22:23:16Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "You act on release on apps and webapps, but on hold on games, because you improve the reward of reaction time.",
+            "author": "@diegovillafane6313",
+            "like_count": 0,
+            "published_at": "2024-10-16T21:44:18Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I like to bang out pet store shopping cart apps between jobs... reminds me of a more innocent time...",
+            "author": "@dj_jiffy_pop",
+            "like_count": 1,
+            "published_at": "2024-10-16T21:28:40Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "If this guy is considered a junior dev and isn't getting hired, I might as well just buy a farm and be happy instead...",
+            "author": "@jordynsonne8897",
+            "like_count": 1,
+            "published_at": "2024-10-16T21:24:10Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i like better \"we do what we must because we can\" 😎",
+            "author": "@themax2go",
+            "like_count": 0,
+            "published_at": "2024-10-16T20:53:46Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "He can't make that shake a short, he'd have to pad it with more content, it's too short XD",
+            "author": "@someman7",
+            "like_count": 0,
+            "published_at": "2024-10-16T20:44:24Z",
+            "sentiment": "LABEL_0",
+            "emotion": "fear"
+        },
+        {
+            "comment_text": "RIP all the companies that could've hired this guy",
+            "author": "@c2454",
+            "like_count": 0,
+            "published_at": "2024-10-16T20:33:23Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Time to make a todo app using binary or assembly",
+            "author": "@josephbarasa",
+            "like_count": 0,
+            "published_at": "2024-10-16T20:17:04Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This dude made in Typescript and Go from scratch what I've been trying to do in Unity for years.\n\nI don't know where I went wrong.",
+            "author": "@btCharlie_",
+            "like_count": 0,
+            "published_at": "2024-10-16T19:27:50Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Bravo! I started making MotorCubs RC (early access on Steam) for the same reason. I got told I needed a shipped game to even be considered for a role, a very chicken and egg problem.",
+            "author": "@reaktorleak89",
+            "like_count": 0,
+            "published_at": "2024-10-16T18:13:31Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Fuck I feel like I'm trainee with 7+ years of experience",
+            "author": "@TechStache",
+            "like_count": 0,
+            "published_at": "2024-10-16T18:05:28Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "iirc, Jon Carmack wants it to be on press, but also make it very easy to cancel if you miss click.",
+            "author": "@m4rt_",
+            "like_count": 0,
+            "published_at": "2024-10-16T17:42:15Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The clarity and quality of those visual explanations (like the random shake one) honestly feels like something from Sebastian Lague – amazing!",
+            "author": "@vsueiro",
+            "like_count": 0,
+            "published_at": "2024-10-16T17:18:03Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "16:00 Although I've never done something as impressive as this guy but I once tried using pygame and I had to implement my own drag drop event because just like in this case there is no button or anything in pygame and you are just displaying graphics and receiving input so you have to handle everything. There probably exist a ui library but I don't know why I didn't even search for it.",
+            "author": "@mahdi7d1rostami",
+            "like_count": 0,
+            "published_at": "2024-10-16T17:16:31Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Junior Dev is just Hazing",
+            "author": "@InventorOfYouTube",
+            "like_count": 0,
+            "published_at": "2024-10-16T17:15:23Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Loved the distinction between “Jr” being based on your *professional* experience – not based of how good you are. I’m halfway through the video and this man KNOWS HIS STUFF",
+            "author": "@vsueiro",
+            "like_count": 6,
+            "published_at": "2024-10-16T17:04:14Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Please can you put \"Prime reacts\" in the title? The title makes it look like you actually wrote the game.",
+            "author": "@aspzx",
+            "like_count": 0,
+            "published_at": "2024-10-16T16:21:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The physical act of clicking can sometimes move the cursor.  On release allows the user to confirm further, but I agree it is not what you want.  You want telepathy.",
+            "author": "@InventorOfYouTube",
+            "like_count": 0,
+            "published_at": "2024-10-16T16:11:34Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "For display, hexes are just grids where every other line is offset by half.  For connectivity, you can store hexes in a grid.  There just happen to be \"two\" below and \"two\" above.",
+            "author": "@InventorOfYouTube",
+            "like_count": 0,
+            "published_at": "2024-10-16T16:08:19Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "at 11min, are you saying splitting gamestate and render state is inferior to keeping it all in one struct?",
+            "author": "@LikeTotallyEMB",
+            "like_count": 0,
+            "published_at": "2024-10-16T15:39:05Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "There's something inflated, in someone with no job experience, applying for a jr position, and you assume they will be senior in a year. That's slightly ..... fked",
+            "author": "@deenaxic9134",
+            "like_count": 0,
+            "published_at": "2024-10-16T15:21:58Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "am I a programmer? no. did I watch 8 minutes of it before realizing that. absolutely",
+            "author": "@Grindelwaldos",
+            "like_count": 0,
+            "published_at": "2024-10-16T14:58:00Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "37:00 Handling network failures is really hard but it's not optional if you want any real world users. Especially mobile users trying to use your app in a moving vehicle are going to see all kinds of errors, disconnects and timeouts.\n\nOther platforms but iOS are less unstable but none can ever be perfect because TCP can only hide problems so much even if the OS were co-operating with your app. Some mobile networks might even change the client IP address every now and then!",
+            "author": "@MikkoRantalainen",
+            "like_count": 1,
+            "published_at": "2024-10-16T14:56:34Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The press/release thing, I know exactly what you mean Primagen when you're playing a game, click and feel OH SHIT THAT'S NOT WHAT I WANT and drag off. The key thing I think is if the UI element you're implementing has ireddemable strategic consequences. I usually do this most in turn-based games, they tend to move a bit slower so that delay doesn't feel bad.",
+            "author": "@Jonatron101",
+            "like_count": 0,
+            "published_at": "2024-10-16T14:55:25Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "The past couple of days before seeing this, I've been designing some NES looking (or maybe Sega Master System looking....?) tank style game just for fun. Maybe more like TNK3 or Granada (Anyone remember those)? Been using Lua with a LOVE 2D framework. Everything here is light years ahead of what I'm currently able to do. So I'm glad to see this.",
+            "author": "@jordanjackson6151",
+            "like_count": 1,
+            "published_at": "2024-10-16T14:23:45Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "Apple has great battery life? My sister's iPhone dies in three hours without charging. My eight-year-old $200 Android phone lasts three _days_ without a charge.",
+            "author": "@andrew_ray",
+            "like_count": 0,
+            "published_at": "2024-10-16T12:51:40Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Eventually he will find a job bc he is passionate. If you are passionate you outwork masses. Always.",
+            "author": "@LearnValkey",
+            "like_count": 0,
+            "published_at": "2024-10-16T12:21:38Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I feel like the UI should response on press, but the action should be performed on release, like when you press a button you get the feedback that you pressed one immediately, but only when you release you send the action out, best of both world.",
+            "author": "@foxwhite25",
+            "like_count": 0,
+            "published_at": "2024-10-16T12:13:24Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I wonder how much experience he had before building it",
+            "author": "@Salamaleikum80",
+            "like_count": 0,
+            "published_at": "2024-10-16T12:01:23Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "This dude is NOT a Jr Dev. \nOr I am just a bad programmer",
+            "author": "@thomasthereal4067",
+            "like_count": 3,
+            "published_at": "2024-10-16T11:53:22Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Im fked if this is junior dev",
+            "author": "@yohanbs9654",
+            "like_count": 0,
+            "published_at": "2024-10-16T11:51:46Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "My first app which was a hotdesking app used HTML canvas, and it was just terrifying at first to understand ahahha.",
+            "author": "@troyhackney148",
+            "like_count": 0,
+            "published_at": "2024-10-16T11:40:16Z",
+            "sentiment": "LABEL_0",
+            "emotion": "fear"
+        },
+        {
+            "comment_text": "This dude isn't a junior 😅",
+            "author": "@madebyjonny7637",
+            "like_count": 0,
+            "published_at": "2024-10-16T11:31:08Z",
+            "sentiment": "LABEL_1",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "tip to find job faster, dont apply to companies where HR are females, they are too dumb to understand domain knowledge, if they are entrusted the most critical area - the hiring process, the company is shit and bound to die",
+            "author": "@SunMoonBrothers",
+            "like_count": 0,
+            "published_at": "2024-10-16T11:29:06Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Noone is takling about how is this a \"Junior\" level? He was able to describe why and what technologies he chooses - advantages over other ones - thats close to mid for me",
+            "author": "@mateuszdziezok8631",
+            "like_count": 0,
+            "published_at": "2024-10-16T11:28:06Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Im up to week 5 on CS50, everything is still Alien to me.\n\nAnd I see stuff like this and think, there is just no way to understand this.",
+            "author": "@kflive1",
+            "like_count": 0,
+            "published_at": "2024-10-16T11:05:54Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "The predictive movement / smoothing is actually very very easy. Both server and client communicate via a recursive signal which means that you can use audio engineering to control those. A highpass filter introduces a ring which will be your predictive positioning and a lowpass will smooth out the movement. Ideally, the 4 variables you are left with is the 2 cutoff frequencies and the 2 slopes which you can calibrate to the latency the user has at any given time. Sometimes you end up with a single-liner.\n\nIf you can't be bothered, just lowpass it. That also works and it is definitely a single liner.\n\nIt did work wonders with a physics engine running at 10hz I was playing with 'bout 10 years ago.",
+            "author": "@szeredaiakos",
+            "like_count": 0,
+            "published_at": "2024-10-16T10:50:03Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "And this guys is junior? I need to evaluate my job title haha.",
+            "author": "@harisonfekadu",
+            "like_count": 1,
+            "published_at": "2024-10-16T10:42:14Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Watching this literally when I'm making a game lol\nI decided not to use any engine, just Go and Raylib. It's surprisingly difficult being my first time doing this, you have to think ahead of so many things, but I'm having a shit ton of fun and I'm learning Go as a consequence",
+            "author": "@baldpolnareff7224",
+            "like_count": 0,
+            "published_at": "2024-10-16T10:41:09Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "This guy does not qualify as a junior dev (even without the professional experience in my opinion). He is proficient in Typescript/Javascript, and not to mention HTML canvas. He is proficient in Go. He built an actual game that \"looks\" very simple but is actually quite complex. I have 7 years of professional experience and I would have a very hard time doing what he did. My biggest issue of course would be UI stuff since I am primarily a backend developer. I did do mobile game development (server side) for almost 2 years using Nodejs and PHP Laravel and a touch of C# to make a helpfull tool for the team, so I don't think that I would have major issues on the server. But frontend is definitely my weakness.",
+            "author": "@Voidstroyer",
+            "like_count": 1,
+            "published_at": "2024-10-16T10:34:08Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I'm gonna be real, I have worked as a developer for 5 years since I graduated and I have done it most of the time just to pay the bills. I have not done any programming for fun for many years, and tbh I have been really sick of it a lot of the time. But since I started following you and I saw the interview with DHH I have gotten a revival in my love of programming and now I have projects I want to do in my free time and I'm looking forward to work. Thank you!",
+            "author": "@zmudilago",
+            "like_count": 0,
+            "published_at": "2024-10-16T10:15:58Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "seeing videos like this makes me wanna drop everything I'm doing right now and start coding a project of this kind immediately",
+            "author": "@idslw3489",
+            "like_count": 0,
+            "published_at": "2024-10-16T10:06:51Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I feel like bro is catfishing, I mean he can't pass interview for some other reason or he is just lying about being unemployed jr dev. He is skilled enough to fill jr position. also video quality is suspiciously high. so my guess he is a content maker pretending for more views, no way he can't find a job as jr engeneer.",
+            "author": "@goldsucc6068",
+            "like_count": 1,
+            "published_at": "2024-10-16T09:51:58Z",
+            "sentiment": "LABEL_0",
+            "emotion": "fear"
+        },
+        {
+            "comment_text": "act on press vs act on release\n. Act on press is there for immediate response in situations where you don't need to change your mind about the action taken. Act on release is for exploratory actions where you aren't sure if the action you will be taking will fulfill the desired effect.\nare you using a crossbow or a bow. with a crossbow you are already prepped to fire a certain bolt type and the only decision necessary is to select the location to fire. With a bow you need to hold the arrow armed and then release when ready, you can also change out the arrow without firing the one which is loaded.\nThey both have their place and need to be considered.\nbut... act on release can add in more bugs and edge cases than act on press.",
+            "author": "@ferinzz",
+            "like_count": 0,
+            "published_at": "2024-10-16T09:42:11Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I mean you can make a web application as a project, but that's going to be just as hard as making a video game if you want that to feel impressive.",
+            "author": "@nexovec",
+            "like_count": 0,
+            "published_at": "2024-10-16T09:35:00Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "So, did he got the job?",
+            "author": "@IvanKravarscan",
+            "like_count": 0,
+            "published_at": "2024-10-16T09:13:28Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Every employer when they see this, they will just swipe over it, thinking we not making games here.",
+            "author": "@IloveGod-q4q",
+            "like_count": 16,
+            "published_at": "2024-10-16T08:57:51Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "you need to search Eric Barone (Stardew Valley) background for making his game",
+            "author": "@tj_nanda",
+            "like_count": 2,
+            "published_at": "2024-10-16T08:01:04Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "29:19 \"How much duplicated logic do you want\". That's what I am saying... TS on the server ftw",
+            "author": "@Zizaco",
+            "like_count": 2,
+            "published_at": "2024-10-16T07:58:24Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "canvas API is trivial and easy",
+            "author": "@ikirachen",
+            "like_count": 1,
+            "published_at": "2024-10-16T07:54:11Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This guy is going places.",
+            "author": "@mike-2342",
+            "like_count": 0,
+            "published_at": "2024-10-16T07:45:10Z",
+            "sentiment": "LABEL_2",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Bro is not a junior",
+            "author": "@ktxed",
+            "like_count": 0,
+            "published_at": "2024-10-16T07:31:46Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Business + AI raised the bar making seniors devs working both senior + junior, Business needs restructuring",
+            "author": "@madonobel",
+            "like_count": 1,
+            "published_at": "2024-10-16T06:29:24Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I think it's because you're not a Jr! Your mustache is too good for that as a disguise",
+            "author": "@blockshift758",
+            "like_count": 0,
+            "published_at": "2024-10-16T06:16:48Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "JSDoc it's ok if you're doing something relatively small, it's not a replacement for TS. I tried both, on the same project of mine, a reasonably large API for an e-learning platform, version 1 had JSDoc, in version 2 i moved to TS. There's really no game, TS is better.",
+            "author": "@EmanueleSerini78",
+            "like_count": 0,
+            "published_at": "2024-10-16T06:13:00Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nobody hires a dev anymore so I made a wallpaper app",
+            "author": "@RajPalival-li1bf",
+            "like_count": 0,
+            "published_at": "2024-10-16T05:56:44Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "it really is so bad if you're not already established this is like the only way do something really cool and even then if you have the \"wrong thought\" in public you are fucked bc most companies in tech are all the same basically and if youre white youre extra screwed lol so yea...good times.....i like how he made the shrinking outside on a game like this he did well...lmao watched like half this before i checked out his channel and was already subbed",
+            "author": "@comosaycomosah",
+            "like_count": 0,
+            "published_at": "2024-10-16T05:20:39Z",
+            "sentiment": "LABEL_1",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "most of the companies just post jobs for their investors to see that they still have a demand on developers or other roles",
+            "author": "@danahantoiu3808",
+            "like_count": 4,
+            "published_at": "2024-10-16T05:19:25Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This feels inspired by Civilization (Not the game, but the mechanics and style of play) and I like it honestly",
+            "author": "@nullbeyondo",
+            "like_count": 0,
+            "published_at": "2024-10-16T05:18:51Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "🤘",
+            "author": "@hydrobolix3365",
+            "like_count": 0,
+            "published_at": "2024-10-16T05:09:22Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Pertaining to the Carmack click timing thing:\nI think it's case-by-case, and you can assume a user interaction on many things, but there are always exceptions. I think the best ideology is that the user intended to to do the thing they did (just to set a basic axiom), so craft the UI around that. Sure, it takes more effort but it's smarter.",
+            "author": "@JesseGilbride",
+            "like_count": 1,
+            "published_at": "2024-10-16T05:03:21Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Someone hire this guy!!",
+            "author": "@dipereira0123",
+            "like_count": 0,
+            "published_at": "2024-10-16T04:51:54Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "The amount of time that went into the video production and visuals _on top of the game_ is mind-blowing. Amazing find!",
+            "author": "@darklajid",
+            "like_count": 28,
+            "published_at": "2024-10-16T03:41:36Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "how do interviewers treat modding? because complicated mods often require similar expertise, and are more analogous to professional development because devs have to adopt existing code and standard practices",
+            "author": "@xymaryai8283",
+            "like_count": 0,
+            "published_at": "2024-10-16T03:37:22Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "better have some floating origin madness in there",
+            "author": "@MG-nn8dy",
+            "like_count": 0,
+            "published_at": "2024-10-16T03:07:57Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Can you review aarthificial next?",
+            "author": "@RenderingUser",
+            "like_count": 1,
+            "published_at": "2024-10-16T02:28:13Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"Welcome to Costco, I love you\"",
+            "author": "@CarSagan18",
+            "like_count": 1,
+            "published_at": "2024-10-16T02:05:30Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "doesn't matter do a game as personal project to land a job if HR ppl doesn't know how hard it is! They will reject you because you're too nerd and lame.",
+            "author": "@rafaelpereiradias2567",
+            "like_count": 1,
+            "published_at": "2024-10-16T01:50:06Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Why no github link in the description?",
+            "author": "@mdk4828",
+            "like_count": 0,
+            "published_at": "2024-10-16T01:24:54Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "This game reminds me a bit of battle for wesnoth. That's a more fantasy themed game though and this has tanks. Could add some more units and some macro mechanics to this and you get battle for wesnoth but modern warfare themed instead of fantasy. Shrinking arena is a nice idea though. Wesnoth doesn't have that but it does have different types of tiles such as bushes and jungle that affect the units in different ways like reducing their range or movespeed. Shrinking arena could add an element of pressure or competition. Reminds me of how competitive things like fortnite or pubg feel just because the arena shrinks.",
+            "author": "@technocraticarchification7973",
+            "like_count": 0,
+            "published_at": "2024-10-16T00:53:33Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "1.5 years to sr. I am jealous of the US. Here in JP you will be consider jr. after 1.5 years 😂. \nthis is the FIRST/ONLY criteria their looking. if you don't get the years, they don't bother to look further in your skills set... \n\nAfter 60+ rejections, I got a job... when I see the job lvl VS the interviews lvl.... it's just a joke...",
+            "author": "@Mylordkaz",
+            "like_count": 0,
+            "published_at": "2024-10-16T00:51:33Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "no one hires junior devs so i cofounded an AI start-up",
+            "author": "@MyBinaryLife",
+            "like_count": 0,
+            "published_at": "2024-10-16T00:40:40Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "for a turn based game why do you even need web sockets?",
+            "author": "@jimkerak6404",
+            "like_count": 0,
+            "published_at": "2024-10-16T00:39:56Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "bro I accually am understanding more and more about waht you talk.",
+            "author": "@GaJoRiPo",
+            "like_count": 0,
+            "published_at": "2024-10-16T00:33:33Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The explanation at 34:36 is actually mind-blowingly helpful as I'm currently in the early stages of developing a game myself. I planned to implement an enemy that had motion kind of similar to a \"Snatcher\" or \"Angry Trapper\" from the jungle biome in Terraria, where its motion has a random wobbling component. This implementation, with multiple sinewaves of random frequencies summed together and then pinched with a tapering function, is perfect. I'll probably implement some kind of \"Oscillation\" class which can handle a variable number of dimensions, durations and max amplitudes. It could be reused not only for game entity motion, but camera shakes and even potentially UI elements as well.\n\nI did not expect to have this kind of revelation when I clicked on this video. Thanks lol",
+            "author": "@BoredyTF2",
+            "like_count": 1,
+            "published_at": "2024-10-16T00:29:47Z",
+            "sentiment": "LABEL_2",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "This is cool man, but we're considering other candidates at this time",
+            "author": "@BudgiePanic",
+            "like_count": 0,
+            "published_at": "2024-10-16T00:23:43Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Looking at this... I just can't compete. Guess my 82 rejections and 0 interviews make sense now. Is this what a \"junior\" is supposed to be? Isn't this a bit.. Insane?",
+            "author": "@helvosthecreator1920",
+            "like_count": 3,
+            "published_at": "2024-10-16T00:19:31Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Nobody hires sde, so i stopped touching grass",
+            "author": "@rickZie",
+            "like_count": 0,
+            "published_at": "2024-10-16T00:01:15Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "UI activates on down, application logic operates on release.  Click down displays the tank path, release changes the game state.  Click down UI highlights the menu option, release selects the option highlighted.",
+            "author": "@fanshaw",
+            "like_count": 1,
+            "published_at": "2024-10-15T23:59:00Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "My slow ass have been trying to implement a 2d camera following the player and finally after 2 weeks I gave up 😍",
+            "author": "@harshgupta7262",
+            "like_count": 3,
+            "published_at": "2024-10-15T23:56:56Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "This guy is amazing! One of the best vids.",
+            "author": "@jasonkirby43",
+            "like_count": 0,
+            "published_at": "2024-10-15T23:37:09Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "how the flark is this guy a junior dev",
+            "author": "@mitchierichie",
+            "like_count": 0,
+            "published_at": "2024-10-15T23:30:49Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "#NoBuild",
+            "author": "@mitchierichie",
+            "like_count": 0,
+            "published_at": "2024-10-15T23:29:41Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Most of these videos are fun, but this one is just sounds like end-to-end solid advice.",
+            "author": "@economicist2011",
+            "like_count": 0,
+            "published_at": "2024-10-15T23:28:44Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "Surely A* works with two destinations if your heuristic is min(heuristic1, heuristic2)",
+            "author": "@mattmerr",
+            "like_count": 1,
+            "published_at": "2024-10-15T23:26:01Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Interviewer: \"That's all very nice. But you couldn't do a quick sort on the whiteboard so we're going with a different candidate. \"",
+            "author": "@Dylan_thebrand_slayer_Mulveiny",
+            "like_count": 608,
+            "published_at": "2024-10-15T23:19:44Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "You only act on release if you have no Undo. You are then so far in the weeds, you kind of have to act on release as a defensive measure. Snappy controls + full Undo is the way.",
+            "author": "@an_imminence",
+            "like_count": 1,
+            "published_at": "2024-10-15T23:16:29Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I'm working on my own game engine now... not really for making games, but pretty much strictly for the learning experience since making your own game engine now is mostly a waste of time, especially with major stupids dumping their in house engine for Unreal...",
+            "author": "@JohnnyThund3r",
+            "like_count": 0,
+            "published_at": "2024-10-15T23:02:48Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Dude, the website about hexagonal grids helped me SOOO much, it's truly amazingly well comprehensive and well written",
+            "author": "@ioplop2943",
+            "like_count": 0,
+            "published_at": "2024-10-15T23:01:24Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "No one's here to listen to this naughty joke so I posted it on a random tech video.\n\nGood old Abe's father was walking down the street and saw a well-endowed beauty wearing a shirt that read \"Handle with Care\" and a light bulb flashed above his head.\n\nHe grabbed pen and paper and stuck the latter on his pants, it read \"Candle with Hare\"\n\nLaugh track ensues at poorly translated joke",
+            "author": "@fuzzy-02",
+            "like_count": 0,
+            "published_at": "2024-10-15T22:50:56Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Every video I watch of Prime's, I feel more and more incompetent",
+            "author": "@jimmymorris1710",
+            "like_count": 0,
+            "published_at": "2024-10-15T22:44:03Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "That's why i dont sde, too many sweats.",
+            "author": "@thrice5560",
+            "like_count": 0,
+            "published_at": "2024-10-15T22:42:32Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "What is the reason for putting all your sprites into one png file? Couldn’t you just call up each sprite by file name and the whole thing would be a lot easier to program and easier to read?",
+            "author": "@CharlieBoardman1",
+            "like_count": 2,
+            "published_at": "2024-10-15T22:42:02Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Making a multiplayer game that runs smoothly on the client while having the server maintain state is tremendously difficult. The client side needs to be responsive in an FPS.\n\nIt's generally done by having things like player movement being done on both the server and client. If there's a difference, defer to the server. It's really difficult to account for things like network lag and where the player should be at any point in time. If Player A presses fire, yet the communication to the sever takes 100 ms, what did he hit?\n\nA must is to totally remove jittering movement even when the client and server are off by a bit.\n\nThe problem is difficult. Good interview question for somebody who has made this type of game though.\n\nValve has a good writeup on it for Counterstrike.",
+            "author": "@briankarcher8338",
+            "like_count": 5,
+            "published_at": "2024-10-15T22:09:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "how about double clicks mr Carmack?",
+            "author": "@abbastolgayylmaz4078",
+            "like_count": 0,
+            "published_at": "2024-10-15T22:06:41Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I made my own Porno once - Still waiting for it to turn into a Career ... (lol FALSE)",
+            "author": "@RobbCochran-l2u",
+            "like_count": 0,
+            "published_at": "2024-10-15T22:02:33Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "29:00 On the logic server side vs client side discussion. For the stuff I've written so far, I've kept the game logic I know I will need on both client and server to not care what side it is on and I just run it on both. Client gets instant feedback, and you can't cheat.",
+            "author": "@chainingsolid",
+            "like_count": 0,
+            "published_at": "2024-10-15T22:01:50Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Welcome to a world where Programmers have Effectively made THEMSELVES Obsolite lmao... Suck bud... Don't it...",
+            "author": "@RobbCochran-l2u",
+            "like_count": 0,
+            "published_at": "2024-10-15T22:01:10Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "I hired a dude on the spot because he was passionate about writing a DHCP server from scratch. Passion and non-trivial challenge -> job",
+            "author": "@niclash",
+            "like_count": 27,
+            "published_at": "2024-10-15T21:35:07Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "Let's watch the guy, after getting this visibility in Prime, how longo will it take for this guy to get a job?",
+            "author": "@fernando-loula",
+            "like_count": 0,
+            "published_at": "2024-10-15T21:28:48Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This video was actually the one that inspired me to abandon protobufs and just write my own binary messaging protocol.",
+            "author": "@seargd1",
+            "like_count": 0,
+            "published_at": "2024-10-15T21:26:47Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i have been on computer science for 1 year looking for a internship role, i literally never got a interview, seriously been thinking on giving up on life, i just wanna learn in action",
+            "author": "@guilhermewhite7274",
+            "like_count": 10,
+            "published_at": "2024-10-15T21:25:59Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "Build your own tcp? Tf",
+            "author": "@ShubhamKumar-gd4sn",
+            "like_count": 0,
+            "published_at": "2024-10-15T21:18:33Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "So... No one hires Jr dev's and senior devs and Sr. dev's want to be tiktokers...",
+            "author": "@bartek...",
+            "like_count": 0,
+            "published_at": "2024-10-15T21:08:34Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "nobody hires a php developer, so i made a wordpress plugin.",
+            "author": "@johnchristian3248",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:57:23Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Do you don't like brilliant or did they not reach out to you? .. or maybe something else :o \n\nI feel like everybody is advertising for them recently",
+            "author": "@ItZxDraW",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:55:04Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "6:12 I implemented web sockets once. it was actually a very good experience for me, and surprisingly straight forward. Web sockets (and most of http) has very well written RFC's. I learned a lot from it. took me a day or so (although I only did the bare essentials, not completely in compliance with the rfc, though I might finish it for fun). I recommend everyone to give it a try.\n\nps: this guy definitely made the right call by making a lib handle it for him. there was no reason to get his hands dirty with it for his focus.",
+            "author": "@Jorrit_200",
+            "like_count": 3,
+            "published_at": "2024-10-15T20:50:22Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "This is the least junior junior-dev I've ever seen.",
+            "author": "@chrishoppner150",
+            "like_count": 5,
+            "published_at": "2024-10-15T20:41:06Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Wait, what if the game is made with React?\nI like to make some games. But i think they would be less or unpopular game. [Not with react]",
+            "author": "@asagiai4965",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:38:29Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Everything in this video just went over my head",
+            "author": "@naolfekadu6101",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:36:53Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "The \"on release\" is lobbied by animators, otherwise nobody'll see their fancy button transitions",
+            "author": "@AlekseyLoykuts",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:30:59Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "At [5:35] Yeah, Graphics programming is more complicated and without a simplified drawing framework and library like the 2d or 3d canvas in the browser, you end up having to do a lot of stuff just because it is how a GPU actually works (if you want any sort of good performance) While the API for Canvas could be better; I would say, canvas is still a lot less difficult or complicated than direct OpenGL or DirectX (and especially, Vulkan) coding.",
+            "author": "@DonaldDuvall",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:30:57Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The jr devs I know can't handle a single class.",
+            "author": "@VelociraptorX",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:29:22Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I made my CV a 3D interactable scenario with game alike feeling(the player moves around the scenario and interact with few items, there is also dialogs lol) and still don't get hired.",
+            "author": "@bit9524",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:22:51Z",
+            "sentiment": "LABEL_1",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "On release!! For the love of gaming on mouse up!",
+            "author": "@xXGuerrillasXx",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:19:20Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "Firefox agrees - action on press\nGoogle/YouTube, Windows, Android, Signal  disagrees - action on release",
+            "author": "@Shocker99",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:11:01Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"Store would complain\" is Thor'd in the balls.",
+            "author": "@Pasakoye",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:10:23Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "hi anyone knows which exact color scheme used in this video?",
+            "author": "@eygs493",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:10:19Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I’m currently on a similar grind, minus the “applied to jobs at game studios” part. As much as it would be great to be part of a team, I have a very specific game I want to make, because I really want to play that game.",
+            "author": "@donaldslayer",
+            "like_count": 2,
+            "published_at": "2024-10-15T20:08:54Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I also make and few staff get from this x100 speed code and his GItHub )\n\nUPD to really prevent blury sprites at screens with pixel ratio more then 1 need to do like that \n\n ctx.canvas.width = document.documentElement.clientWidth * window.devicePixelRatio;\r\n    ctx.canvas.height = document.documentElement.clientHeight * window.devicePixelRatio;\r\n    ctx.canvas.style.width = `${document.documentElement.clientWidth}px`;\r\n    ctx.canvas.style.height = `${document.documentElement.clientHeight}px`;\r\n    ctx.setTransform(window.devicePixelRatio, 0, 0, window.devicePixelRatio, 0, 0);\r\n    ctx.imageSmoothDisable = true;\r\n    ctx.imageSmoothingEnabled = false;\n\nIt is like press additional pixel and that rescale up to whole screen \n\nUnfortunately Safary (I belive everybody happy to support Safary) is pain for me - ctx.setTransform at my game not work (  for some unrelizable reason",
+            "author": "@PimiTree",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:07:02Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I do not understand it. The video itself is so good, if he did the video he could have been easily hired by some Youtube/Video Production Co to make these kind of videos for a good $$$... no need to do game dev anymore lol :))))))",
+            "author": "@ShatrixSU",
+            "like_count": 1,
+            "published_at": "2024-10-15T20:01:34Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "ON the whole act on release vs on keydown. I think, significant(irreversible, consequential, unrepeatable) actions do on release allowing user to think and everything else on keydown, so everything feels faster.\n\nwe are not always have to take one side or the other",
+            "author": "@nickintroll4991",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:00:39Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "So, now I can safely turn off computer and go to sleep? Thanks, I was wondering why I am staying up so late lately...",
+            "author": "@diynevala",
+            "like_count": 0,
+            "published_at": "2024-10-15T20:00:36Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "17:47 no, if you fire it on release then you can set it up to make sure the user hasnt dragged their mouse away from the button. this allows them to cancel the action if they accidentally misclick but hold the mouse down, and drag it away. firing immediately is unnecessary. i expect the page to wait while i hold it. thats how its been for years, and it has no bad side effects changing it because you think its more responsive will just piss users off",
+            "author": "@Grandalf3004",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:59:43Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The onPress and onRelease issue is pointless when devoid of context. If want your gun to fire on press, but you probably more comfy with your grenade starting on release. You probably don't care much if your motor starts on press or on release, but you CERTAINLY want your emergency stop button to work on press.",
+            "author": "@ErazerPT",
+            "like_count": 8,
+            "published_at": "2024-10-15T19:57:32Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The talk about him not being a junior dev makes me chuckle.  By the time I graduated from college I had already spent 3 years working on a 100k line C codebase that was for a simple multiplayer video game with around 100 concurrent players.  So, yeah, sounds about right.",
+            "author": "@bobbycrosby9765",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:57:06Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "> made a game out of boredom 😁😁\n> in javascript 😑",
+            "author": "@white_145",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:55:06Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "16:52 My favourite solution is the alternate button cancels the action. IE I left click then right click, that cancels the left click so I can release both with no effect.",
+            "author": "@glimpsee7941",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:54:33Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Games make it really easy for competent hiring managers to sniff out the sus. Games aren't easy to build tho so get cracking 😂",
+            "author": "@taylorswe",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:52:59Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "considering there are going to be much more layoffs of actually good developers in the upcoming years, we are gonna have so many great indie games soon - just like we had in late 80's - when game industry was done BY professionals and FOR professionals",
+            "author": "@ruslansmirnov9006",
+            "like_count": 2,
+            "published_at": "2024-10-15T19:47:57Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Prime, maybe a cool video type could be you acting like a ‘competent interviewer’ to devs looking for work. It’ll both be super interesting and funny but also provide value to everyone in how to level up.",
+            "author": "@0xkeez",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:45:28Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "I got my first job because  I was writing a raytracer in C++ at the hairsalon that my friend opened. Lots of people would come in there and ask me what I was doing. One day out of the blue some unknown number called me asking if I wanted to make a game for national telivision in my country. The boss  who interviewed me was clueless about IT, but when I showed him the webpage with  a java applet that I had brought along on a floppy that would render a 3D cow in realtime with particle effects and environment reflections, I was hired on the spot.",
+            "author": "@nochan99",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:42:31Z",
+            "sentiment": "LABEL_1",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "28:12 that's what I'm always saying also, game logic should be in the server and not in the client to avoid client cheats",
+            "author": "@MarkPanado",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:35:57Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Jr Dev = someone who can't design from the ground up.",
+            "author": "@paherbst524",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:35:22Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "re: act on press vs release, there is no hard rule.  keyboards act on press, the web acts on release.  It comes down to expectations, most mouse presses are on release, to differentiate between a short or long press.",
+            "author": "@paherbst524",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:30:32Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "He sounds like “The end of ze world” guy",
+            "author": "@nikluz3807",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:29:52Z",
+            "sentiment": "LABEL_1",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "honestly, for people asking if this is really junior level: yes it is. nothing he did in the video is gatekept by secret business logic or incredibly niche algorithms. The project as a whole is very impressive, but looking at each individual step you can see that is not that complex (a lot of code, but not complex).",
+            "author": "@hidoryy",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:26:37Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "About the reconnect: theres an old RTS game from the turn of the century called Kohan: Immortal Sovereigns that has a beautiful lag and disconnect tolerance system; it'd be worth a look for a reverse engineer.\n\nThe game will sit there an wait until everyone gets reconnected and synced up, couple friends and I played a match for three hours with three ai players and the game never dropped; we had a few pauses for the resync sure, but we were able to finish the entire three hour match.\n\nCool system and an amazing strategy game that's complex but not complicated to play.",
+            "author": "@Drakon0Blade",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:26:30Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Humble brag riding on the economy down turn",
+            "author": "@tomvice",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:19:05Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The best thing you can do in an interview to teach the interviewer.",
+            "author": "@Demiuuu",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:14:30Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Then they ask him to do a medium LC question and he doesn't pass it because he didn't have the time to study for making the game",
+            "author": "@BrayanRuiz-m3w",
+            "like_count": 22,
+            "published_at": "2024-10-15T19:10:50Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nobody hires jr. devs so I started the 4th riech against hiring managers... hol up.",
+            "author": "@jfht318",
+            "like_count": 4,
+            "published_at": "2024-10-15T19:10:31Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Dude, I had not one but two games in my portfolio before I got my first job in tech, and a couple of graphics programming projects on GitHub with YouTube tutorial videos. I'm positive no recruiter ever clicked any of those links but to this day I get GitHub stars so that means I'm helping other devs and that makes me happy.\n\nMy first game I did during university. It got ported to Switch and almost won an award for best student game on a huge Latin American games festival. My second was just a bomberman clone with react and expressjs that I made after a bootcamp (I quit university at some point, was doing math not CS) and getting into web dev was better than getting into game dev.\n\nBut none of that mattered, I spent 5 months trying to get my first job. When I finally got it, it was because I got a referral from a friend from uni. We didn't talked too much about any of that during the interview, it was definitely the first interview I did with an actual tech person (founder of the company) and he said he would skip a technical test because I didn't sounded like I was bullshitting him plus he trusted my friend's judgement. I didn't got to show off any of that, I just told him I did. I'm sure I didn't needed all that crap to get hired though. That was all during May of last year.\n\nI know Prime means well but he definitely is out of touch with the current reality of job hunting. The hours I spent filling forms, doing tech tests and writing cover letters for job offerings that weren't even real was insane. Getting a better portfolio is not really gonna help you too much, I believe there's a minimum threshold and going past that is not optimal. Finding a real job offering before others is the real challenge, and that comes down to a bit of luck which translates into trying for enough time. Oh yeah, and when you finally get hired, expect a very low salary. Good luck with rent.",
+            "author": "@rafaelbordoni516",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:08:40Z",
+            "sentiment": "LABEL_1",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "He forgot to install react though",
+            "author": "@Cahnisama",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:07:38Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "A diplomat or certifications mean zero shit, a self taught dev is way more attractive then a bootcamp dev. Bootcamp is just a tool for you to make stuff for yourself before being hired. If good, you can jump over the hiring part and create yourboen company or be a independent contractor. So the most unwanted status is unemployed juniors and minimum wage dev at a big brand.",
+            "author": "@burhanbudak6041",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:06:06Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This guy codes a sht ton. Is visual artist. Editing wizard. Not jr at all. Obvious larp for views",
+            "author": "@tomvice",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:06:01Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Wait... people have a todo app featured as a portfolio item? Like if you need some padding sure but even as someone without a single relevant complete app for what im going to school for that still just like sounds... so boring and too easy to tell an employer ANYTHING meaningful about your skill unless youre going for ui/ux design and its a handcoded CSS masterpiece",
+            "author": "@imdeadserious6102",
+            "like_count": 1,
+            "published_at": "2024-10-15T19:05:58Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I never thought I'd disagree with John Carmack on something.  I'm more of a respond on release.  It depends on what you are doing.  A UI button you usually want to do the action on release so the user can do the very common action of moving their input off that button before release.  It also allows for visual feedback before committing since you animate it on press and release.  If you are manipulating a scroll view you do it during down.  But I know John is a performance absolutist so anything that adds in delay gets killed.  So the input delay on waiting for release would be one of those things.",
+            "author": "@0x0404",
+            "like_count": 0,
+            "published_at": "2024-10-15T19:00:46Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "My absolute favorite interview format (on either side of the table) is a review of a project the candidate made on their own. The candidate is usually at easy since they’re talking about something they’re familiar with, and the interviewer can judge code quality, decision making, tradeoff evaluation, library selection, etc. It also allows for great conversation.",
+            "author": "@tomcorwine3091",
+            "like_count": 45,
+            "published_at": "2024-10-15T18:49:33Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Canvas isn't that bad.  It is pretty bare yes.  But it does give you starting point for everything you need to do it right.",
+            "author": "@0x0404",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:40:03Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Man that multiple sine wave trick for the shake is beautiful! Love this video!",
+            "author": "@zander008",
+            "like_count": 1,
+            "published_at": "2024-10-15T18:39:20Z",
+            "sentiment": "LABEL_2",
+            "emotion": "fear"
+        },
+        {
+            "comment_text": "WHAT THE FUCK",
+            "author": "@renat0sp",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:32:09Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "you should checkout chosenmasters next gen music creator web app, made by one dev only, its crazy actually",
+            "author": "@ghostly123-w4u",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:30:42Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "This guy is great.  Who's gonna tell him that he'll get a job, but never once exercise anything close to that level of intricacy...  from the software side of dev -- stage 1: it feels like 90% is just make a form for a customer, make it look the way they want it, make it store data with an api...   stage 2: update user interface to limit the range of a numerical type, make it so the form inputs can't contain some characters, make it calculate things more on the front end... reduce page reloads... etc...",
+            "author": "@prozacgodretro",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:29:37Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "A key point is to not just make some crappy slopware \"game\" in unity. You need to actually program your own systems. Try creating your own netcode, or your own gamestate structure.",
+            "author": "@Sammysapphira",
+            "like_count": 1,
+            "published_at": "2024-10-15T18:26:19Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I feel like you overestimate the intelligence of recruiters",
+            "author": "@ptronic",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:25:32Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "why dont i just kms",
+            "author": "@hassaan1670",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:25:15Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I´ ve got rejected 300 times this year and not a single person asked me for a single personal project, but 80 unmarried middle aged women told me A: they dont have any knowledge in programming and B: they own a dog, because they are unmarried and have no child.",
+            "author": "@deralufe9094",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:17:08Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "This loser deleted my comment for saying the video is dumb, last time I comment or watch anything here ciao",
+            "author": "@do8456",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:15:03Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Skill issue, I useArray Buffers for contiguous memory.\nIf I had more time on my hands I could probably flesh out a buffer \"struct\" that's one or half a dozen buffers storing numbers, strings, objects, functions, all that.\n\nThe only reason for me not use buffers is when the data is too big it's actually better fragmented otherwise it can't fit anywhere and it runs into sort of a SEGFAULT adjacent problem.",
+            "author": "@danser_theplayer01",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:14:52Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Dang. He actually gets responses??? I just get ghosted from all of my applications",
+            "author": "@joshuatuinder8373",
+            "like_count": 2,
+            "published_at": "2024-10-15T18:08:00Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I disagree strongly with John Carmack. It should be on release. what you could do (for his performance claim):\non mouse down, start an async calculation, which you cancle when the mouse goes up and was not on the element.\nif your mouse moves to other elements unintentionally, your ui elements are too small.\n\nexample on a game I play:\ntap on a skill: fire it\npress and hold: open the skill information\npress and drag: aim skill or drag it to a team shoutout or to the cancel area\npress, drag, hold: fire skill at a precise time on release\nNEVER fire on pointer down. Its a terrible design, disables so much functionality.",
+            "author": "@bechti44",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:07:24Z",
+            "sentiment": "LABEL_0",
+            "emotion": "fear"
+        },
+        {
+            "comment_text": "@23:46 that's kinda the point. Everybody is a junior dev until they luck into a position where they can make their resume say otherwise. There's an entire internet of anime catgirls who will code you and I both under a table at 17, and by the time they're somewhere in their 20s and deciding to pursure an actual career, they're starting at the bottom like everybody else, and it's very hard to indicate on a resume that you have a decade of experience solving difficult problems in your bedroom just for fun, because it's all you really ever wanted to do. Add the fact that an entire generation or two of people were told that a career in STEM was the only way to make it in the modern world, and you have a saturated job market where you're competing with 22 year olds who have been reverse engineering binary blobs for fun since they were 13, to people with 4 year comp sci degrees but zero real world experience, any of whom could be your next employee of the month, and now combine that with a schizophrenic industry that stopped taking its meds and went manic again, and is now running through the aisles of 7/11 screaming about generalized artificial intelligence, and instead of somebody calling their sister to pick them up and feed them some lithium before they lose their apartment, the entire world just goes \"aw crap. Should I pivot and learn some PyTorch? Wtf is a Keras? Do I need that to pay my rent next year?\"",
+            "author": "@jordanzish",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:06:58Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "If you wanna make a complex game do multiplayer or VR",
+            "author": "@635574",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:05:45Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "No one hire jr devs. So I'm going to make a startup and hire one. But he has to have a minimum of 10 years experience.",
+            "author": "@doleo_metal",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:04:55Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "@ThePrimeTime, you don’t need tsc, or a precompiler to run   TypeScript in Node 22+",
+            "author": "@andrewredican1413",
+            "like_count": 0,
+            "published_at": "2024-10-15T18:03:05Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I made a website so interactive you could change basically every aspect of it. It even had a physics engine and was so modular I could add a new feature/mini-app in less time it takes to deploy the docker image.\nIt was also my first ever web project.\nI couldn't get a job because I didn't have any prior work experience.",
+            "author": "@AQDuck",
+            "like_count": 82,
+            "published_at": "2024-10-15T17:57:12Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nobody hires an independent scientist so I broke the laws of physics. (ǝɯᴉʇ uᴉ spɹɐʍʞɔɐq ƃqᴉllǝʌɐɹʇ ɯɐ I ʍoN)",
+            "author": "@akosv96",
+            "like_count": 4,
+            "published_at": "2024-10-15T17:52:33Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "why do you keep appearing - i literally learned english via bob ross and landed a job and paid rent for my place and my parents. there's a lot of useless cake and propaganda you keep peddling and still not sure what your deal is.",
+            "author": "@nofollowrobotstxt",
+            "like_count": 1,
+            "published_at": "2024-10-15T17:43:39Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "My experience is that interviewers look at game projects like you played with toys while making some easy ass checklist app that has one vaguely simulare feature as the company has in one of their system makes them horny af",
+            "author": "@paipai762",
+            "like_count": 7,
+            "published_at": "2024-10-15T17:39:07Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "There was a similar 2 player tank game on the Atari in the early 1980s",
+            "author": "@portal-jx5pu",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:38:16Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Thor of Pirate Software: I approve of this message",
+            "author": "@misters6749",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:30:29Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "My first big solo project was a multiplayer turn based strategy game, Nodrog's Fortress. It taught me so much despite being unsuccessful commercially so far. I wouldn't trade that experience for anything though. Just go build something that sparks your passion and I promise you will level up.",
+            "author": "@CalamityStarForce",
+            "like_count": 3,
+            "published_at": "2024-10-15T17:28:51Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "thats it im gonna make a 2d multiplayer game in c# monogame",
+            "author": "@mwu6057",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:25:09Z",
+            "sentiment": "LABEL_1",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "If you shoot a gun in real life pressing the button is ON PRESS so every action in any video game for all purposes should be irreversible ON PRESS. To model reality.",
+            "author": "@ShootingUtah",
+            "like_count": 1,
+            "published_at": "2024-10-15T17:22:42Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i m new here and i m not able to understand what u r talking about",
+            "author": "@kislaysinha1367",
+            "like_count": 1,
+            "published_at": "2024-10-15T17:21:08Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I am so lost, how do people know stuffs like this",
+            "author": "@rasaqsodiq7897",
+            "like_count": 1,
+            "published_at": "2024-10-15T17:20:56Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Also how he presented his project is quite impressive",
+            "author": "@tarmicle-rowing-3",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:18:12Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I dont want to make a fucking game",
+            "author": "@plaidchuck",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:16:18Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "how I've gotten my software jobs: make an app with their tech stack.",
+            "author": "@thedevs1280",
+            "like_count": 1,
+            "published_at": "2024-10-15T17:15:47Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Flying turrets galore. 💥",
+            "author": "@ArturdeSousaRocha",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:14:33Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "when are us jobless viewers going to band together and make the greatest start up of all time.... you know... when any of us has an idea for us all to work on...",
+            "author": "@antivist5183",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:08:28Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "If this is what it takes to be a junior dev, 3rd world country graduates barely scraping by will see more than 8 rejections\n\nAnd that also means im nowhere near junior... im MUCH farther below it...",
+            "author": "@Enzoss100",
+            "like_count": 2,
+            "published_at": "2024-10-15T17:05:59Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I made an app for contractors and small business can generate work estimate, invoices and stuff like that and send emails to customers automictically with a pdf estimate and customer login auth via magic link so they can interact with estimates and talk to the customer.  \n\nHonestly I am not sure it will be enough to get hired so It better start making good money from subscriptions when I get it to full release.",
+            "author": "@mikelautensack7351",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:03:43Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "This sounds very familiar. I spent 6 months looking for a job after recently getting laid off. After about 60 rejections I decided to make a game. I started by trying to make a multiplayer RTS and spent about 3 months working on that and gave up after realizing it would take me too long to finish so I changed focus. I decided to focus on making smaller sized local/multiplayer games. I made 3 games in the last 3 months. Each game uses split-screen and supports up to 4 players. \n\nSo now it's a year later I still don't have a job, but at least I made some games.",
+            "author": "@andyschannel687",
+            "like_count": 466,
+            "published_at": "2024-10-15T17:01:24Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i watched this video last week and if this MF is a jr dev I'm helllaaa cooked!",
+            "author": "@NoveltyKnown",
+            "like_count": 0,
+            "published_at": "2024-10-15T17:00:48Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "On release for UI, on press for everything else",
+            "author": "@blakkerr",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:56:59Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Had a go at a game myself earlier this year. I recreated pokemon (mechanics not a whole game) essentially. Well sort of anyway, I didn't finish everything and I would probably want to start from scratch rather than try finish it in its current form, I made mistakes. But damn, I learned so much... Games are incredibly complex!",
+            "author": "@adam7802",
+            "like_count": 2,
+            "published_at": "2024-10-15T16:53:34Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I never use chat gpt. It always does some shitty stuff. They have a long way to go. But its good google substitute,",
+            "author": "@MrDejvidkit",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:52:52Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Why does my battlefield have email?",
+            "author": "@zamplify",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:52:47Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I already knew you forgot to turn off alerts when I pressed play",
+            "author": "@equinox4467",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:49:49Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"Apple has such great battery life\" ahahhah best joke so far :) 37:29",
+            "author": "@futurapp7206",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:43:14Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "Making a game isn't just hard, it is also quite easy to review the competence. Great value there.",
+            "author": "@krux02",
+            "like_count": 9,
+            "published_at": "2024-10-15T16:41:21Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "I guess i can be grateful that I have a job doing mobile development that doesn't involve any game development. Sometimes it's just changing a button color everywhere (with no css), or removing the separator line from a table, but it can be as hard as debugging data between the client and server, memory and performance issues. I checked and a couple of my favorite games are made in Poland and Germany and it pays less than USA. for games made in the USA the salary is comparable to mobile dev, if you are lucky.",
+            "author": "@stevez5134",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:39:02Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I dont believe anything of this tbh.\nGuy has way too many skills in math, programming in 2 languages, video editing etc. Also nowhere he is showing his identity, so if he wants to get hired that's a bit weird. And then finally, he doesn't reply on GitHub anymore.\n\nToo many 🚩 for me to believe he is actually a junior dev.",
+            "author": "@CapriSjonnie",
+            "like_count": 2,
+            "published_at": "2024-10-15T16:38:03Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "if this guy a junior, what are we ?",
+            "author": "@Ahmad-dd6fl",
+            "like_count": 40,
+            "published_at": "2024-10-15T16:35:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "28:12 Not exactly but pretty close. You want to think about the server the entire time, yes, but not necessarily server first. What matters is your architecture. You need to identify what might need to be shared, what stays on the client, what stays on the server, what is in both but not synced, etc. Converting a single player game to multiplayer is insanely hard because no one thought about responsabilities and state. If you remember the entire way through that this is a multiplayer game, nothing stops you from making your first prototype single player and doing the server later. What matters is that when it comes to networking, your state is already ready to be networked, and your gameplay logic isn't tangled up.",
+            "author": "@Exilum",
+            "like_count": 2,
+            "published_at": "2024-10-15T16:32:02Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "No one hires mid level developers so as a father of 3 I am f***ed",
+            "author": "@jameshamann465",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:27:56Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Bear in mind this dude created the presentation too.",
+            "author": "@neilhatly",
+            "like_count": 25,
+            "published_at": "2024-10-15T16:27:39Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I’m a jr dev. I have not been given an opportunity in more than a year. I’m starting to loose hope.",
+            "author": "@ramirorenteria7333",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:27:24Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "Exactly. Do something. I say that if you have never made a game but you're going to do a game dev college course. Don't do the course, you're not gonna make it. Sorry, you're doing every1 on that course a favour by not doing it.",
+            "author": "@neilhatly",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:25:36Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Why start from scratch using a web language when you could have saved so much time using Unity or Godot with a third party hex grid asset and a multiplayer plugin? Then, you can release it on Web, PC, Steam, mobile, console, etc! The last bit about the game not working on iOS is why. Unity can build fairly easily for iOS and Android. There's still a bunch of BS to publish onto the Apple store but it eventually gets through if you persevere and fix their recommendations.\nPS. I know it was to learn and have something to show prospective employer but ... well if you aren't going into game dev, why make a game?",
+            "author": "@GameDevProf",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:23:56Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "is everyone in development as stressed out as ThePrime? I hate in working places that attitued of everything is simple and quick.. where value is found in being quick, rather than taking time to asses things.",
+            "author": "@epistemocrat",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:22:22Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Dijkstra mentioned!",
+            "author": "@jeffrey5602",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:20:57Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "If no one hires junior devs how do companies get things done?",
+            "author": "@Ohem1",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:19:24Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Get the CDL or plumbing & hvac skills",
+            "author": "@GoonCity777",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:16:16Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "His animations are pretty impressive as well!!",
+            "author": "@KeldonA",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:09:24Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I graduate my ba degree next may and I have no idea what this guy is doing. I heard breadth first search and I remember that in my data structure class. does this mean I'm screwed?",
+            "author": "@victorhong16",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:06:49Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "great video, \nbut his github is empty, idk maybe he has private repos but it seems suspicious with only that project on it.",
+            "author": "@t.mollov566",
+            "like_count": 0,
+            "published_at": "2024-10-15T16:03:53Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Say what you will about schooling, but the software development program I took spent much of the final year... making us develop software. A game like this probably would have been top of the class, but it's right in the ballpark of what people were expected to make before being sent out to find jobs.",
+            "author": "@DavidWMiller",
+            "like_count": 1,
+            "published_at": "2024-10-15T15:59:26Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "So these are expectations for a junior dev now? Right? Right?",
+            "author": "@YaroslavFedevych",
+            "like_count": 185,
+            "published_at": "2024-10-15T15:56:02Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "1:10 - \"talk about how you sync the game state over the network\"\n\n3:00 - \"it's turn based\"\n\nWell that was a disappointment.",
+            "author": "@realharo",
+            "like_count": 1,
+            "published_at": "2024-10-15T15:55:27Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "Next thing, prime learns about Bevy...",
+            "author": "@TheNoirKamui",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:54:27Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Key up/down: animation on keydown, action on key-up. Depends on the nature of the application - if mistakes are punished, if speed is necessary, etc",
+            "author": "@SBqwerty",
+            "like_count": 22,
+            "published_at": "2024-10-15T15:51:11Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Should be clarified that when he talks about \"making a game, it is hard\" he is talking about making a game from scratch, not with Unity...",
+            "author": "@RGcrasyRG",
+            "like_count": 1,
+            "published_at": "2024-10-15T15:50:46Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "it just takes so freaking long to do this and I currently have a job. I was lucky to find one last year. I do want to do my own projects but i lack time.",
+            "author": "@_Gart_",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:48:21Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "To make on release action feel snappy, just animate te button press by changing the button color. Then on release preform the action and reset te button color. Best desing in my opinion!",
+            "author": "@Switchboy1",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:48:08Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "If this guy didn't get hired, you won't.",
+            "author": "@AL-kb3cb",
+            "like_count": 18,
+            "published_at": "2024-10-15T15:38:47Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Can we all acknowledge the fact that there's absolutely nothing \"junior\" about what the guy has done.",
+            "author": "@muyewahqomeyour7206",
+            "like_count": 6,
+            "published_at": "2024-10-15T15:38:07Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Did Prime changed the headset?",
+            "author": "@joyboricua3721",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:35:10Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "So he coded this and also has the presentation skills at 3:30 to make this look like polished training. I thought I was faking before, now I know for sure...",
+            "author": "@manofacertainrage856",
+            "like_count": 23,
+            "published_at": "2024-10-15T15:34:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "1:20 I made the mistake of focusing on C/C++ and algorithms as a student. I even wrote a 2.5D game engine from scratch on my own time as I naively thought it would prove that I know how to program. Job hunt was brutal and demotivating. Finally when I landed a proper interview with a founder rather than just another HR/headhunter person they weren't even interested in seeing my demo. They just asked if I can make a web application. After that I bite the bullet and went to some quick few months bootcamp where I literally made a React todo app and landed an internship immediately which lead to a descent job.",
+            "author": "@kaikkinimetvarattu2",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:33:56Z",
+            "sentiment": "LABEL_1",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "Red Blog Games guide to hex grids is an amazing reference for any work with grids. That page is one of my forever tabs in my browser while working on my game.",
+            "author": "@cork1576",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:33:51Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Omg I just watched this and now you're covering it sick.\n\nOn the note of getting hired: This is exactly how I got hired. After 8 months of endless rejections and studying and leetcode grinding, I didn't write a single line of code to get hired here. Instead my interviewer asked me to talk about my magnum opus at my last gig, which was breaking apart a monolith into microfrontends, stitching them together with module federation and using a shared library to manage state between all of them which was super cool to me because I had never even heard of module federation before they tasked me with research and implementation.",
+            "author": "@ENCRYPTaBIT",
+            "like_count": 24,
+            "published_at": "2024-10-15T15:32:39Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I'm gonna actually steal that \"Now it's safe to turn your pc off\" to put at the end of my presentations lol",
+            "author": "@donkeyy8331",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:30:51Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"Do something for real real\" Yea this is the biggest thing I look for when hiring. If you've got real projects and can walk me through your logic on a couple of examples, you're in.",
+            "author": "@Dr_Speedy",
+            "like_count": 19,
+            "published_at": "2024-10-15T15:27:32Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"Nobody is hiring high school chemistry teachers any more so I made my own meth lab empire.\"",
+            "author": "@JonnyJKF",
+            "like_count": 1651,
+            "published_at": "2024-10-15T15:23:44Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"OnDown vs OnRelease\": I try to go by the rule. that I use OnDown for quick, simple, reversable events. Switching between layouts and modes or switching pages.  Stuff like \"download on button press \", \"save to server\" or \"load for long time after button press\" is handled by OnRelease. This is a small inconsistency, that is outshined by more snappy menu interaction and the possible to do \"ohh sh!t mouse-button-hold\" for important features.",
+            "author": "@PapstJL4U",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:17:14Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "As an interviewer, I’d be incredibly impressed by the tech, choices, *finishing the dang thing*, etc. But I’d be more impressed by the ability to communicate all of those things. Even just the few seconds early on showing the grid going to hex then isometric. Imaging trying to describe that on a zoom call!",
+            "author": "@efkastner",
+            "like_count": 2,
+            "published_at": "2024-10-15T15:17:05Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I've never seen someone declare all the functions they are gonna need before writing the actual code, that's just weird",
+            "author": "@TheFreshMakerHD",
+            "like_count": 1,
+            "published_at": "2024-10-15T15:12:32Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "I did a reverse proxy for the first time also recently. Good-shid-ya.",
+            "author": "@heythatmonkeyhasaspoon2636",
+            "like_count": 1,
+            "published_at": "2024-10-15T15:11:08Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "8yrs experience but I may as well be junior dev since I never finished my degree. Its hard out here to find work guys.",
+            "author": "@shinjiku144",
+            "like_count": 6,
+            "published_at": "2024-10-15T15:05:54Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "That's sick",
+            "author": "@GideonTonkinson",
+            "like_count": 0,
+            "published_at": "2024-10-15T15:04:08Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "I said it in the original video, that guy is full of bulllshit, he is not a junior.",
+            "author": "@tomiczdarko",
+            "like_count": 4,
+            "published_at": "2024-10-15T15:00:32Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "2:13 what if the market near me only wants frontend fullstack developer fresh graduate 4years experience can do customers support and backend maintenance",
+            "author": "@fuzzy-02",
+            "like_count": 2,
+            "published_at": "2024-10-15T14:52:29Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "making a video game is easier than Rice beating Texas (or going to the moon.)",
+            "author": "@overtoke",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:51:17Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Welp, time to make a todo app in Unreal Engine 5 with jiggle physics",
+            "author": "@fuzzy-02",
+            "like_count": 403,
+            "published_at": "2024-10-15T14:50:39Z",
+            "sentiment": "LABEL_1",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "You act on press in action games and on release in strategy / turn based.\n\nCool video. Can't believe this guy had problems with getting hired. He's 10x dev junior.",
+            "author": "@henrykkaufman1488",
+            "like_count": 42,
+            "published_at": "2024-10-15T14:48:55Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "During my studies I made several projects, including a game, two of which were for commercial use. When I graduated from university, I submitted about 1000 resumes in half a year, and these were absolutely all open vacancies in the IT field in my region, i.e. not only vacancies for programmers, but also near-programmers, security specialists, etc. Out of a thousand resumes, I received about 5 interviews, two of them continued with tasks to solve, at the end of one of the tasks they told me that I was suitable, but they were waiting for the head of the department, then they would invite me to an interview with him, etc. and another time they supposedly hired me and the next day my employment was supposed to begin, but suddenly they wrote that they found someone else. Then for several more months I did nothing and slept all day long, since I could not find any work at all, and the money I earned on two commercial projects was already running out. I was desperate. In the end, after three interviews, one company hired me as a loader in a warehouse! A few months later, one of my friends hired me as a programmer in his department without any interviews. I worked there all the time until I left Russia. P.S. The hardest thing about being an ordinary programmer is to keep learning something new while your job is to move boxes or do something that is not related to learning something new in programming. Most of us never get a chance in this field, and doing this only for yourself all your life is very difficult or almost impossible.",
+            "author": "@offilawNoone",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:46:44Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "An excellent resource if you're interested in working on something similar is \"Red Blob Games\" blog. It's a treasure trove of interactive blog posts for doing things just like this. Tons of theory and interactive visuals to help you understand what the math is doing and some articles have implementation code. It really has everything: Hexagonal grid systems, square grid systems, drawing curved roads, ray casting, shortest path stuff, tiling on spheres, etc.",
+            "author": "@stoched",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:46:15Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The debate about whether to act on button press (\"down\") or button release reminds me of my experiences playing RTS and MMO games.\nI recall using an add-on that triggered skills immediately on the key press (down event) rather than default release event.\nIt felt more responsive and felt like a slight reaction-time advantage, which matters in competitive play.\n\nFor any regular work situation? No way...",
+            "author": "@Othilion",
+            "like_count": 13,
+            "published_at": "2024-10-15T14:41:33Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"i build a game in c sharp im unity, this proofs im good in c sharp!\"\nyeah because unity, blender, animations, picking music and other assets proofs youre good in coding in c sharp. keeep it simple, don't waste 80% of your time doing stuff you won't need in your job.",
+            "author": "@outis2493",
+            "like_count": 1,
+            "published_at": "2024-10-15T14:39:01Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "*HTMX todo app",
+            "author": "@CristianGarcia",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:34:04Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "that's my oomf right there",
+            "author": "@Harry-McKenzie",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:33:27Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "How to convince a hiring manager at a web design company that you aren't really serious about web design and just make whatever projects pop into your ADHD mind. \nStep 1: show a simple game you made, \nStep 2: show a blockchain smart contract you made\nStep 3: Tell them your really into AI too",
+            "author": "@do8456",
+            "like_count": 3,
+            "published_at": "2024-10-15T14:32:31Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I'm surprised you haven't automated turning off alerts",
+            "author": "@jamesmackay6815",
+            "like_count": 3,
+            "published_at": "2024-10-15T14:31:29Z",
+            "sentiment": "LABEL_0",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "I think John Carmack's argument for acting on press genuinely only works because he was working with a _keyboard_ app. For PC keyboards, you literally expect that when you press a key it acts immediately. If you mess up you can just press the delete key and start again. But for buttons that lead you to another area of the app or other such use cases, I just don't see how it can be better.",
+            "author": "@Speykious",
+            "like_count": 10,
+            "published_at": "2024-10-15T14:29:19Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Must be easy having a high IQ and making games like these. Meanwhile low IQ chumps like me can't even get a Help Desk job.",
+            "author": "@canodepvc2837",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:26:11Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "After watching a Video like this i feel completely useless lol",
+            "author": "@1KrasserDude",
+            "like_count": 4,
+            "published_at": "2024-10-15T14:25:56Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "I like how he introduced it, he introduced the features or mechanics of the game clearly, like bullet points. Later on, these will become the requirements of the program, solid start.\nIf he doesn't have a job yet then I don't what wrong with this world, I'm only 10 minutes in and I can see he's quite competent, maybe he might lack strong personal and sales skills to take hirers to his turf, but otherwise, this guy would be a good asset for most companies.",
+            "author": "@Vintagestep",
+            "like_count": 44,
+            "published_at": "2024-10-15T14:25:55Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nobody hires nuclear engineers under 45 so I made a bomb.",
+            "author": "@Mayday-cr7pr",
+            "like_count": 861,
+            "published_at": "2024-10-15T14:23:43Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "hex grid is a 2d array, you just display it differently.",
+            "author": "@Kay8B",
+            "like_count": 1,
+            "published_at": "2024-10-15T14:22:32Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "If a junior developer comes to interview with this project, he will be hired because, at that point, he is a medior developer, and they derisk themselves.",
+            "author": "@lavka123",
+            "like_count": 6,
+            "published_at": "2024-10-15T14:20:09Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "L take for on press. Always on up.",
+            "author": "@ryangrogan6839",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:17:33Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i32s only in JS, not just small numbers.",
+            "author": "@thekwoka4707",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:14:08Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "23:35 this pattern is called Entity Component System (ECS)",
+            "author": "@ruslansmirnov9006",
+            "like_count": 3,
+            "published_at": "2024-10-15T14:13:00Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I stopped watching pri9meagen to watch this primeagen video",
+            "author": "@alphacode5",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:11:32Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Its not your skills, its your demands. Its easier to find a job if you willing to work more for less.",
+            "author": "@dmitriyrasskazov8858",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:11:29Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "But why does he use 8-space tabs",
+            "author": "@DylanMatthewTurner",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:10:34Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Nice but some recruiter's/HR won't care if you made a game and are applying for web dev.\nOn the game dev side, it used to be make (and finish) a game. Now it's \"have you shipped a game?\". Game Dev companies gotta keep moving those goalposts and then cry when they can't get anyone to work for them..... *small violin*\n\nBefore anyone asks: yes I do occasionally make games. I've done a small Z80 assembler game on ZX Spectrum, a remake of ET using C++/SDL 1.2, a GLBasic remake of a ZX Spectrum game. Currently making a game in CanDo (hypercard on Amiga) and another remake on GLBasic.",
+            "author": "@namcos",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:10:06Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "A cool part of making the video, he is presenting his tech interview. He could put a link in his resume.",
+            "author": "@WileeRunner42",
+            "like_count": 14,
+            "published_at": "2024-10-15T14:09:59Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "That is totally dismissing for beginners or for junior developers. The amount of knowledge that this guy has is not from a JR. This can be good to encourage someone but discourage someone as well like \"Hmmm, so if this guy is a JR and doesn't get a job... what about me that am a JR and don't know 20% of this stuff?????\"",
+            "author": "@valv3232",
+            "like_count": 12,
+            "published_at": "2024-10-15T14:08:55Z",
+            "sentiment": "LABEL_0",
+            "emotion": "disgust"
+        },
+        {
+            "comment_text": "Please link to the github account.  Account name:  kodesan. Project name: tank-ops.",
+            "author": "@anotherelvis",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:06:56Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Thumbs up for gitKHhub",
+            "author": "@theideaot",
+            "like_count": 0,
+            "published_at": "2024-10-15T14:05:55Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "The internet is a series of tubes.\nGame code is a series of ifs and fors",
+            "author": "@spicynoodle7419",
+            "like_count": 3,
+            "published_at": "2024-10-15T14:03:31Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Triggering on down is essential in many games (Particularly FPS) because people are working at the limits of their reflexes and you need the game to be highly responsive. \nThats not quite so critical if you are just selecting an action in an application or even a turn based strategy or some such. Then you have to weigh it up against backing out of a miss-click.\nI.e. Id argue its context specific.",
+            "author": "@xtieburn",
+            "like_count": 10,
+            "published_at": "2024-10-15T14:00:55Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "37:31 For the guy who asked why battery life on Mac is o great, it's mainly because the processor's architecture is ARM when on windows and the rest of devices is x86 / x64. ARM is way superior nowadays and some Microsoft Surface Laptop may now come with this architecture.",
+            "author": "@ebregains",
+            "like_count": 1,
+            "published_at": "2024-10-15T14:00:30Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I think he used object of objects",
+            "author": "@replikvltyoutube3727",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:51:57Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i made a tanks game and my own game engine for that using opengl es in 2012. I dont have a job. Don't listen to primeagen, its over for coders.",
+            "author": "@Cat-vs7rc",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:50:15Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "this \"junior\" has math degree for sure",
+            "author": "@leandro.menezes",
+            "like_count": 17,
+            "published_at": "2024-10-15T13:48:48Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nobody hires a fresher. so I made my own startup.",
+            "author": "@ashish_prajapati_tr",
+            "like_count": 70,
+            "published_at": "2024-10-15T13:47:14Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I think every single developer at some point has built a game.",
+            "author": "@Sameer.Trivedi",
+            "like_count": 23,
+            "published_at": "2024-10-15T13:46:41Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "i made an hex ui for an rpg too (in winforms)",
+            "author": "@luvincste",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:46:38Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Hex grid is still a 2x2 grid, just rendered 50% off on every other row.\n\non-press if there's no or neglegable cost, on-release if there's a cost (ie: changing tabs vs downloading a file or unlimited moves vs limited moves)",
+            "author": "@freman",
+            "like_count": 32,
+            "published_at": "2024-10-15T13:44:46Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "1:29 me who just created repo for Todo app just now,crying in corner,give me some react project tips guys 😭",
+            "author": "@reckless947",
+            "like_count": 6,
+            "published_at": "2024-10-15T13:44:45Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Act on release versus act on down is a skill issue argument",
+            "author": "@CorruptedPlist",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:42:08Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "We live in a world where psychology degrees and business majors get more job security and job availability in tech company positions than the developers themselves. What a time to be alive.",
+            "author": "@macchiato_1881",
+            "like_count": 277,
+            "published_at": "2024-10-15T13:40:57Z",
+            "sentiment": "LABEL_2",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "the master (click) baiter",
+            "author": "@fus3n",
+            "like_count": 3,
+            "published_at": "2024-10-15T13:36:47Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Audio/Video seems be slightly out of sync. Only me?",
+            "author": "@drph4nt0m",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:32:15Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Dude do you like Kpop",
+            "author": "@SungJuYea-tp7db",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:29:30Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "next step: make a game haha. Im pivoting from the automotive industry, so I just made some SaaS that I wish I had in my old job as projects but this seems more fun",
+            "author": "@stephancodes",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:28:52Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        },
+        {
+            "comment_text": "Jr Devs aren't real",
+            "author": "@seancooper5007",
+            "like_count": 2,
+            "published_at": "2024-10-15T13:28:44Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Fellas the bar is getting raised",
+            "author": "@khzzzzzzzz",
+            "like_count": 25,
+            "published_at": "2024-10-15T13:28:12Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "nobody hires principal engineer so I made a OS",
+            "author": "@SimGunther",
+            "like_count": 195,
+            "published_at": "2024-10-15T13:25:46Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"If you have a remotely competent interviewer...\"\nWelp... We're screwed...",
+            "author": "@deminc314",
+            "like_count": 489,
+            "published_at": "2024-10-15T13:24:24Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "A hexagonal grid is just a regular 2d array, it is just that every odd row is offset by 50%",
+            "author": "@dgo4490",
+            "like_count": 3,
+            "published_at": "2024-10-15T13:24:10Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I saw it, he is definitely not junior dev.",
+            "author": "@gracjanchudziak4755",
+            "like_count": 62,
+            "published_at": "2024-10-15T13:22:10Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "Especially if you live in a small Montana town like me and just sold your truck to upgrade your PC cause F it there's fiber here and I don't go out anymore anyway",
+            "author": "@danlowe",
+            "like_count": 1,
+            "published_at": "2024-10-15T13:19:39Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nowadays it's harder to get to the interviewer, you know, the person that understands what the job is about. Most people will fail at the ATS review, which is the non-human part of the process. \n\nOh, and I hope you never have to do an interview with an interviewer who clearly doesn't want to be there. Had way to many of these in my life.",
+            "author": "@silverado_vila",
+            "like_count": 35,
+            "published_at": "2024-10-15T13:18:49Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "If you can't talk about a TODO app for at least an hour it's skill issues.\nIn fact, I fail to see what kind of project there even exists that could not be turned into a fucking rocket ship project.\n- Did you analyze competing TODO apps?\n- Did you find the leading one and how did you decide to surpass it?\n- Did you notice any lack of features common to all TODO apps?\n- How did you do persistence and why?\n- Did you create a TODO app that is SaaS or personal? Why?\n- If it's SasS what auth did you use?\n- Have you considered implementing analytics that would tell the person how long he took to complete the tasks?\n- Have you implemented visualizations of those analytical insights and how would you do it?\n- Have you implemented features that would help prioritize the tasks? Custom labels for priorities?\n- Have you implemented notifications and how flexible is configuration of the notifications?\n\n... it's just endless. Imagine creating Obsidian / Notion from your TODO app?",
+            "author": "@mindasb",
+            "like_count": 18,
+            "published_at": "2024-10-15T13:18:08Z",
+            "sentiment": "LABEL_0",
+            "emotion": "anger"
+        },
+        {
+            "comment_text": "try \ntokyospliff",
+            "author": "@ujjwalkumar-uf8nj",
+            "like_count": 1,
+            "published_at": "2024-10-15T13:13:47Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I wish you could understand the side that actually develops a game and still gets auto rejected for interviews, I really want to believe gender doesn't have anything to do with this but it's fucking hard. I am so close to quitting this industry, it's fucking demoralizing.",
+            "author": "@creativeb549",
+            "like_count": 10,
+            "published_at": "2024-10-15T13:12:05Z",
+            "sentiment": "LABEL_0",
+            "emotion": "sadness"
+        },
+        {
+            "comment_text": "huh?",
+            "author": "@damonfedorick",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:12:02Z",
+            "sentiment": "LABEL_1",
+            "emotion": "surprise"
+        },
+        {
+            "comment_text": "No one hires junior devs, so I'm making a Game Boy emulator.",
+            "author": "@rod6722",
+            "like_count": 31,
+            "published_at": "2024-10-15T13:11:49Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "nobody hires sr. dev so I made a hello world app",
+            "author": "@mq5432",
+            "like_count": 1892,
+            "published_at": "2024-10-15T13:10:25Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "\"but it does not mean our story ends here\" is such a beautiful phrase. Props to HR who came up with it.",
+            "author": "@mindasb",
+            "like_count": 109,
+            "published_at": "2024-10-15T13:10:17Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I counted 8 rejections. Those are rookie numbers.",
+            "author": "@EdmondDantèsDE",
+            "like_count": 349,
+            "published_at": "2024-10-15T13:08:54Z",
+            "sentiment": "LABEL_0",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "I just quit a Netflix to pretend.",
+            "author": "@albizutoday2754",
+            "like_count": 4,
+            "published_at": "2024-10-15T13:07:32Z",
+            "sentiment": "LABEL_1",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "hello :D",
+            "author": "@mrkeviscool5277",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:07:32Z",
+            "sentiment": "LABEL_2",
+            "emotion": "neutral"
+        },
+        {
+            "comment_text": "Nice!",
+            "author": "@MantasJurkuvenas",
+            "like_count": 0,
+            "published_at": "2024-10-15T13:06:35Z",
+            "sentiment": "LABEL_2",
+            "emotion": "joy"
+        }
+    ],
+    "sentiment_distribution": {
+        "LABEL_1": 168,
+        "LABEL_0": 132,
+        "LABEL_2": 100
+    },
+    "emotion_distribution": {
+        "neutral": 228,
+        "surprise": 61,
+        "disgust": 21,
+        "joy": 35,
+        "anger": 32,
+        "sadness": 18,
+        "fear": 5
+    },
+    "top_keywords": [
+        [
+            "game",
+            121
+        ],
+        [
+            "like",
+            72
+        ],
+        [
+            "make",
+            54
+        ],
+        [
+            "release",
+            51
+        ],
+        [
+            "made",
+            49
+        ],
+        [
+            "video",
+            41
+        ],
+        [
+            "junior",
+            41
+        ],
+        [
+            "time",
+            39
+        ],
+        [
+            "making",
+            38
+        ],
+        [
+            "press",
+            38
+        ],
+        [
+            "even",
+            31
+        ],
+        [
+            "would",
+            31
+        ],
+        [
+            "games",
+            30
+        ],
+        [
+            "want",
+            27
+        ],
+        [
+            "good",
+            27
+        ],
+        [
+            "think",
+            27
+        ],
+        [
+            "also",
+            25
+        ],
+        [
+            "experience",
+            23
+        ],
+        [
+            "really",
+            23
+        ],
+        [
+            "could",
+            23
+        ]
+    ],
+    "top_active_users": [
+        [
+            "@themax2go",
+            3
+        ],
+        [
+            "@InventorOfYouTube",
+            3
+        ],
+        [
+            "@fuzzy-02",
+            3
+        ],
+        [
+            "@vsueiro",
+            2
+        ],
+        [
+            "@mitchierichie",
+            2
+        ],
+        [
+            "@RobbCochran-l2u",
+            2
+        ],
+        [
+            "@ruslansmirnov9006",
+            2
+        ],
+        [
+            "@paherbst524",
+            2
+        ],
+        [
+            "@tomvice",
+            2
+        ],
+        [
+            "@0x0404",
+            2
+        ]
+    ]
+}

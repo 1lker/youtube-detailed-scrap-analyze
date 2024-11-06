@@ -1,0 +1,82 @@
+[
+    {
+        "comment_text": "\"PHP has the nicest community\" === \"we're all in this shit together\"",
+        "author": "@ThePOVKitchen",
+        "like_count": 1411,
+        "published_at": "2024-07-03T14:28:19Z",
+        "sentiment": "LABEL_2",
+        "emotion": "disgust"
+    },
+    {
+        "comment_text": "I love how \"using Rust\" and \"rebuilding a huge platform\" are synonymous",
+        "author": "@Oler-yx7xj",
+        "like_count": 1406,
+        "published_at": "2024-07-03T12:15:14Z",
+        "sentiment": "LABEL_2",
+        "emotion": "joy"
+    },
+    {
+        "comment_text": "Rust has more videos on YouTube than actual lines of code working in production",
+        "author": "@Z3rgatul",
+        "like_count": 1363,
+        "published_at": "2024-07-03T12:30:43Z",
+        "sentiment": "LABEL_1",
+        "emotion": "neutral"
+    },
+    {
+        "comment_text": "I spent 18 months rebuilding my house using a Swiss army knife. I'm filled with regret.",
+        "author": "@DonAlonzo",
+        "like_count": 609,
+        "published_at": "2024-07-03T12:35:37Z",
+        "sentiment": "LABEL_0",
+        "emotion": "sadness"
+    },
+    {
+        "comment_text": "People need to understand the market segments rust is appealing to, mainly systems programmers… if he wanted a performant, compiled, garbage collected language he should have just used go. But he fell for the RIR meme and then wrote an article about “if only rust had a garbage collector”, which for me is the same as “I’m so mad my car isn’t also a boat”… it’s a different product for a different market segment …",
+        "author": "@chockman3833",
+        "like_count": 460,
+        "published_at": "2024-07-03T13:13:36Z",
+        "sentiment": "LABEL_0",
+        "emotion": "anger"
+    },
+    {
+        "comment_text": "Maximum performance _and_ async is extremely hard in any language",
+        "author": "@pashadia",
+        "like_count": 454,
+        "published_at": "2024-07-03T14:05:36Z",
+        "sentiment": "LABEL_0",
+        "emotion": "neutral"
+    },
+    {
+        "comment_text": "Not the biggest fan of Rust myself but \"it's worse than typescript\" is a wild take.",
+        "author": "@isodoubIet",
+        "like_count": 330,
+        "published_at": "2024-07-03T18:03:47Z",
+        "sentiment": "LABEL_0",
+        "emotion": "disgust"
+    },
+    {
+        "comment_text": "Web devs should not be allowed to complain about other programming languages.\n\nSincerely,\nA web dev",
+        "author": "@RemizZ",
+        "like_count": 272,
+        "published_at": "2024-07-03T16:10:07Z",
+        "sentiment": "LABEL_1",
+        "emotion": "neutral"
+    },
+    {
+        "comment_text": "Rust can be simple. For example, you probably don’t need generics or lifetimes for your use case. Your application is not a library and so it’s ok to be ad hoc and repeat yourself.",
+        "author": "@taylorallred6208",
+        "like_count": 261,
+        "published_at": "2024-07-03T14:55:37Z",
+        "sentiment": "LABEL_1",
+        "emotion": "neutral"
+    },
+    {
+        "comment_text": "\"I'm using Rust because the interwebs said it's fast. Also, I can't be bothered to spend 30 minutes to understand my own code without an LLM present.\" \nPro tip - performant code in any language requires careful work by someone who knows WTF they're doing.",
+        "author": "@7th_CAV_Trooper",
+        "like_count": 218,
+        "published_at": "2024-07-03T18:33:38Z",
+        "sentiment": "LABEL_1",
+        "emotion": "neutral"
+    }
+]

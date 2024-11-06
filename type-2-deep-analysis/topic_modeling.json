@@ -1,0 +1,22 @@
+[
+    {
+        "topic_id": 0,
+        "terms": "0.015*\"rust\" + 0.014*\"language\" + 0.013*\"like\" + 0.006*\"time\" + 0.005*\"get\""
+    },
+    {
+        "topic_id": 1,
+        "terms": "0.022*\"rust\" + 0.014*\"like\" + 0.008*\"community\" + 0.008*\"language\" + 0.007*\"need\""
+    },
+    {
+        "topic_id": 2,
+        "terms": "0.022*\"rust\" + 0.009*\"like\" + 0.008*\"language\" + 0.007*\"use\" + 0.007*\"get\""
+    },
+    {
+        "topic_id": 3,
+        "terms": "0.042*\"rust\" + 0.013*\"code\" + 0.011*\"like\" + 0.011*\"language\" + 0.011*\"skill\""
+    },
+    {
+        "topic_id": 4,
+        "terms": "0.019*\"rust\" + 0.010*\"language\" + 0.008*\"understand\" + 0.007*\"error\" + 0.006*\"time\""
+    }
+]
